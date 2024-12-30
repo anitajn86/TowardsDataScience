@@ -1,11 +1,9 @@
 source,target,weight
-Amara,Ambessa Medarda,2
+Amara,Ambessa Medarda,3
 Amara,Babette,1
 Amara,Benzo,1
 Amara,Caitlyn Kiramman,1
-Amara,Captured Girl,1
 Amara,Cassandra Kiramman,1
-Amara,Cat,1
 Amara,Cecil B. Heimerdinger,1
 Amara,Chross,1
 Amara,Claggor,1
@@ -26,14 +24,12 @@ Amara,Jinx,1
 Amara,Jules,1
 Amara,Kino Medarda,1
 Amara,Lest,1
-Amara,Lock,1
 Amara,Loris,1
 Amara,Madam Margot,1
 Amara,Maddie Nolen,1
 Amara,Marcus,1
 Amara,Mel Medarda,1
 Amara,Mylo,1
-Amara,Mysterious Mage,1
 Amara,Orianna Reveck,1
 Amara,Ran,1
 Amara,Ren,1
@@ -49,6 +45,7 @@ Amara,Silco,1
 Amara,Singed,1
 Amara,Sky Young,1
 Amara,Smeech,1
+Amara,Species,1
 Amara,Steb,1
 Amara,Swain,1
 Amara,Thieram,1
@@ -58,15 +55,12 @@ Amara,Vander,1
 Amara,Vern,1
 Amara,Vi,1
 Amara,Viktor,1
-Amara,Warwick,1
 Amara,Ximena Talis,1
-Ambessa Medarda,Amara,1
+Ambessa Medarda,Amara,7
 Ambessa Medarda,Babette,1
 Ambessa Medarda,Benzo,1
 Ambessa Medarda,Caitlyn Kiramman,1
-Ambessa Medarda,Captured Girl,1
 Ambessa Medarda,Cassandra Kiramman,1
-Ambessa Medarda,Cat,1
 Ambessa Medarda,Cecil B. Heimerdinger,1
 Ambessa Medarda,Chross,1
 Ambessa Medarda,Claggor,1
@@ -78,57 +72,54 @@ Ambessa Medarda,Finn,1
 Ambessa Medarda,Gert,1
 Ambessa Medarda,Grayson,1
 Ambessa Medarda,Harold,1
-Ambessa Medarda,Huck,1
+Ambessa Medarda,Huck,2
+Ambessa Medarda,Illusionary Sorceress,3
 Ambessa Medarda,Irius Bolbok,1
 Ambessa Medarda,Isha,1
 Ambessa Medarda,Janna,1
 Ambessa Medarda,Jayce Talis,2
-Ambessa Medarda,Jinx,2
+Ambessa Medarda,Jinx,5
 Ambessa Medarda,Jules,1
 Ambessa Medarda,Kino Medarda,2
-Ambessa Medarda,Lest,1
-Ambessa Medarda,Lock,1
+Ambessa Medarda,Lest,2
 Ambessa Medarda,Loris,1
 Ambessa Medarda,Madam Margot,1
 Ambessa Medarda,Maddie Nolen,1
 Ambessa Medarda,Marcus,1
-Ambessa Medarda,Mel Medarda,2
+Ambessa Medarda,Mel Medarda,3
 Ambessa Medarda,Mylo,1
-Ambessa Medarda,Mysterious Mage,1
 Ambessa Medarda,Orianna Reveck,1
 Ambessa Medarda,Ran,1
 Ambessa Medarda,Ren,1
-Ambessa Medarda,Renni,3
+Ambessa Medarda,Renni,5
 Ambessa Medarda,Renni's Son,1
-Ambessa Medarda,Rictus,1
+Ambessa Medarda,Rictus,13
 Ambessa Medarda,Rio,1
-Ambessa Medarda,Salo,1
+Ambessa Medarda,Salo,6
 Ambessa Medarda,Scar,1
-Ambessa Medarda,Sevika,1
-Ambessa Medarda,Shimmer,1
+Ambessa Medarda,Sevika,2
+Ambessa Medarda,Shimmer,2
 Ambessa Medarda,Shoola,1
 Ambessa Medarda,Silco,2
-Ambessa Medarda,Singed,1
+Ambessa Medarda,Singed,12
 Ambessa Medarda,Sky Young,1
 Ambessa Medarda,Smeech,1
+Ambessa Medarda,Species,1
 Ambessa Medarda,Steb,1
 Ambessa Medarda,Swain,1
 Ambessa Medarda,Thieram,1
 Ambessa Medarda,Tobias Kiramman,1
 Ambessa Medarda,Torman Hoskel,1
-Ambessa Medarda,Vander,1
+Ambessa Medarda,Vander,2
 Ambessa Medarda,Vern,1
-Ambessa Medarda,Vi,3
-Ambessa Medarda,Viktor,1
-Ambessa Medarda,Warwick,1
+Ambessa Medarda,Vi,10
+Ambessa Medarda,Viktor,12
 Ambessa Medarda,Ximena Talis,1
 Babette,Amara,1
 Babette,Ambessa Medarda,1
 Babette,Benzo,1
 Babette,Caitlyn Kiramman,1
-Babette,Captured Girl,1
 Babette,Cassandra Kiramman,1
-Babette,Cat,1
 Babette,Cecil B. Heimerdinger,1
 Babette,Chross,1
 Babette,Claggor,1
@@ -145,18 +136,16 @@ Babette,Irius Bolbok,1
 Babette,Isha,1
 Babette,Janna,1
 Babette,Jayce Talis,1
-Babette,Jinx,1
+Babette,Jinx,3
 Babette,Jules,1
 Babette,Kino Medarda,1
 Babette,Lest,1
-Babette,Lock,1
 Babette,Loris,1
 Babette,Madam Margot,1
 Babette,Maddie Nolen,1
 Babette,Marcus,1
 Babette,Mel Medarda,1
 Babette,Mylo,1
-Babette,Mysterious Mage,1
 Babette,Orianna Reveck,1
 Babette,Ran,1
 Babette,Ren,1
@@ -166,40 +155,38 @@ Babette,Rictus,1
 Babette,Rio,1
 Babette,Salo,1
 Babette,Scar,1
-Babette,Sevika,1
+Babette,Sevika,2
 Babette,Shoola,1
-Babette,Silco,1
+Babette,Silco,3
 Babette,Singed,1
 Babette,Sky Young,1
 Babette,Smeech,1
+Babette,Species,1
 Babette,Steb,1
 Babette,Swain,1
 Babette,Thieram,1
 Babette,Tobias Kiramman,1
 Babette,Torman Hoskel,1
-Babette,Vander,2
+Babette,Vander,4
 Babette,Vern,1
-Babette,Vi,1
+Babette,Vi,5
 Babette,Viktor,1
-Babette,Warwick,1
 Babette,Ximena Talis,1
 Benzo,Amara,1
 Benzo,Ambessa Medarda,1
 Benzo,Babette,1
 Benzo,Caitlyn Kiramman,1
-Benzo,Captured Girl,1
 Benzo,Cassandra Kiramman,1
-Benzo,Cat,1
 Benzo,Cecil B. Heimerdinger,1
 Benzo,Chross,1
 Benzo,Claggor,1
 Benzo,Deckard,3
-Benzo,Ekko,3
+Benzo,Ekko,5
 Benzo,Elora,1
 Benzo,Eve,1
 Benzo,Finn,1
 Benzo,Gert,1
-Benzo,Grayson,3
+Benzo,Grayson,4
 Benzo,Harold,1
 Benzo,Huck,1
 Benzo,Irius Bolbok,1
@@ -210,14 +197,13 @@ Benzo,Jinx,1
 Benzo,Jules,1
 Benzo,Kino Medarda,1
 Benzo,Lest,1
-Benzo,Lock,1
 Benzo,Loris,1
 Benzo,Madam Margot,1
 Benzo,Maddie Nolen,1
 Benzo,Marcus,2
 Benzo,Mel Medarda,1
+Benzo,Minor Characters,1
 Benzo,Mylo,1
-Benzo,Mysterious Mage,1
 Benzo,Orianna Reveck,1
 Benzo,Ran,1
 Benzo,Ren,1
@@ -228,92 +214,86 @@ Benzo,Rio,1
 Benzo,Salo,1
 Benzo,Scar,1
 Benzo,Sevika,3
-Benzo,Shimmer,1
+Benzo,Shimmer,2
 Benzo,Shoola,1
 Benzo,Silco,2
 Benzo,Singed,1
 Benzo,Sky Young,1
 Benzo,Smeech,1
+Benzo,Species,1
 Benzo,Steb,1
 Benzo,Swain,1
 Benzo,Thieram,1
 Benzo,Tobias Kiramman,1
 Benzo,Torman Hoskel,1
-Benzo,Vander,10
+Benzo,Vander,11
 Benzo,Vern,1
 Benzo,Vi,2
 Benzo,Viktor,1
-Benzo,Warwick,1
 Benzo,Ximena Talis,1
-Benzo (Alternate Universe),Amara,1
-Benzo (Alternate Universe),Ambessa Medarda,1
-Benzo (Alternate Universe),Babette,1
-Benzo (Alternate Universe),Benzo,3
-Benzo (Alternate Universe),Caitlyn Kiramman,1
-Benzo (Alternate Universe),Captured Girl,1
-Benzo (Alternate Universe),Cassandra Kiramman,1
-Benzo (Alternate Universe),Cat,1
-Benzo (Alternate Universe),Cecil B. Heimerdinger,1
-Benzo (Alternate Universe),Chross,1
-Benzo (Alternate Universe),Claggor,1
-Benzo (Alternate Universe),Deckard,1
-Benzo (Alternate Universe),Ekko,1
-Benzo (Alternate Universe),Elora,1
-Benzo (Alternate Universe),Eve,1
-Benzo (Alternate Universe),Finn,1
-Benzo (Alternate Universe),Gert,1
-Benzo (Alternate Universe),Grayson,1
-Benzo (Alternate Universe),Harold,1
-Benzo (Alternate Universe),Huck,1
-Benzo (Alternate Universe),Irius Bolbok,1
-Benzo (Alternate Universe),Isha,1
-Benzo (Alternate Universe),Janna,1
-Benzo (Alternate Universe),Jayce Talis,1
-Benzo (Alternate Universe),Jinx,1
-Benzo (Alternate Universe),Jules,1
-Benzo (Alternate Universe),Kino Medarda,1
-Benzo (Alternate Universe),Lest,1
-Benzo (Alternate Universe),Lock,1
-Benzo (Alternate Universe),Loris,1
-Benzo (Alternate Universe),Madam Margot,1
-Benzo (Alternate Universe),Maddie Nolen,1
-Benzo (Alternate Universe),Marcus,1
-Benzo (Alternate Universe),Mel Medarda,1
-Benzo (Alternate Universe),Mylo,1
-Benzo (Alternate Universe),Mysterious Mage,1
-Benzo (Alternate Universe),Orianna Reveck,1
-Benzo (Alternate Universe),Ran,1
-Benzo (Alternate Universe),Ren,1
-Benzo (Alternate Universe),Renni,2
-Benzo (Alternate Universe),Renni's Son,1
-Benzo (Alternate Universe),Rictus,1
-Benzo (Alternate Universe),Rio,1
-Benzo (Alternate Universe),Salo,1
-Benzo (Alternate Universe),Scar,1
-Benzo (Alternate Universe),Sevika,1
-Benzo (Alternate Universe),Shoola,1
-Benzo (Alternate Universe),Silco,1
-Benzo (Alternate Universe),Singed,1
-Benzo (Alternate Universe),Sky Young,1
-Benzo (Alternate Universe),Smeech,1
-Benzo (Alternate Universe),Steb,1
-Benzo (Alternate Universe),Swain,1
-Benzo (Alternate Universe),Thieram,1
-Benzo (Alternate Universe),Tobias Kiramman,1
-Benzo (Alternate Universe),Torman Hoskel,1
-Benzo (Alternate Universe),Vander,1
-Benzo (Alternate Universe),Vern,1
-Benzo (Alternate Universe),Vi,1
-Benzo (Alternate Universe),Viktor,1
-Benzo (Alternate Universe),Warwick,1
-Benzo (Alternate Universe),Ximena Talis,1
+Benzo/Alternate Universe,Amara,1
+Benzo/Alternate Universe,Ambessa Medarda,1
+Benzo/Alternate Universe,Babette,1
+Benzo/Alternate Universe,Benzo,11
+Benzo/Alternate Universe,Caitlyn Kiramman,1
+Benzo/Alternate Universe,Cassandra Kiramman,1
+Benzo/Alternate Universe,Cecil B. Heimerdinger,1
+Benzo/Alternate Universe,Chross,1
+Benzo/Alternate Universe,Claggor,1
+Benzo/Alternate Universe,Deckard,1
+Benzo/Alternate Universe,Ekko,5
+Benzo/Alternate Universe,Elora,1
+Benzo/Alternate Universe,Eve,1
+Benzo/Alternate Universe,Finn,1
+Benzo/Alternate Universe,Gert,1
+Benzo/Alternate Universe,Grayson,1
+Benzo/Alternate Universe,Harold,1
+Benzo/Alternate Universe,Huck,1
+Benzo/Alternate Universe,Irius Bolbok,1
+Benzo/Alternate Universe,Isha,1
+Benzo/Alternate Universe,Janna,1
+Benzo/Alternate Universe,Jayce Talis,1
+Benzo/Alternate Universe,Jinx,1
+Benzo/Alternate Universe,Jules,1
+Benzo/Alternate Universe,Kino Medarda,1
+Benzo/Alternate Universe,Lest,1
+Benzo/Alternate Universe,Loris,1
+Benzo/Alternate Universe,Madam Margot,1
+Benzo/Alternate Universe,Maddie Nolen,1
+Benzo/Alternate Universe,Marcus,1
+Benzo/Alternate Universe,Mel Medarda,1
+Benzo/Alternate Universe,Mylo,1
+Benzo/Alternate Universe,Orianna Reveck,1
+Benzo/Alternate Universe,Ran,1
+Benzo/Alternate Universe,Ren,1
+Benzo/Alternate Universe,Renni,2
+Benzo/Alternate Universe,Renni's Son,1
+Benzo/Alternate Universe,Rictus,1
+Benzo/Alternate Universe,Rio,1
+Benzo/Alternate Universe,Salo,1
+Benzo/Alternate Universe,Scar,1
+Benzo/Alternate Universe,Sevika,1
+Benzo/Alternate Universe,Shoola,1
+Benzo/Alternate Universe,Silco,2
+Benzo/Alternate Universe,Singed,1
+Benzo/Alternate Universe,Sky Young,1
+Benzo/Alternate Universe,Smeech,1
+Benzo/Alternate Universe,Species,1
+Benzo/Alternate Universe,Steb,1
+Benzo/Alternate Universe,Swain,1
+Benzo/Alternate Universe,Thieram,1
+Benzo/Alternate Universe,Tobias Kiramman,1
+Benzo/Alternate Universe,Torman Hoskel,1
+Benzo/Alternate Universe,Vander,2
+Benzo/Alternate Universe,Vern,1
+Benzo/Alternate Universe,Vi,2
+Benzo/Alternate Universe,Viktor,1
+Benzo/Alternate Universe,Ximena Talis,1
 Caitlyn Kiramman,Amara,1
 Caitlyn Kiramman,Ambessa Medarda,2
 Caitlyn Kiramman,Babette,1
 Caitlyn Kiramman,Benzo,1
-Caitlyn Kiramman,Captured Girl,1
 Caitlyn Kiramman,Cassandra Kiramman,3
-Caitlyn Kiramman,Cat,1
 Caitlyn Kiramman,Cecil B. Heimerdinger,1
 Caitlyn Kiramman,Chross,1
 Caitlyn Kiramman,Claggor,1
@@ -329,19 +309,17 @@ Caitlyn Kiramman,Huck,1
 Caitlyn Kiramman,Irius Bolbok,1
 Caitlyn Kiramman,Isha,1
 Caitlyn Kiramman,Janna,1
-Caitlyn Kiramman,Jayce Talis,3
+Caitlyn Kiramman,Jayce Talis,4
 Caitlyn Kiramman,Jinx,5
 Caitlyn Kiramman,Jules,1
 Caitlyn Kiramman,Kino Medarda,1
 Caitlyn Kiramman,Lest,1
-Caitlyn Kiramman,Lock,1
 Caitlyn Kiramman,Loris,1
 Caitlyn Kiramman,Madam Margot,1
 Caitlyn Kiramman,Maddie Nolen,2
 Caitlyn Kiramman,Marcus,2
 Caitlyn Kiramman,Mel Medarda,1
 Caitlyn Kiramman,Mylo,1
-Caitlyn Kiramman,Mysterious Mage,1
 Caitlyn Kiramman,Orianna Reveck,1
 Caitlyn Kiramman,Piltover Police Department,3
 Caitlyn Kiramman,Ran,1
@@ -359,6 +337,7 @@ Caitlyn Kiramman,Silco,2
 Caitlyn Kiramman,Singed,1
 Caitlyn Kiramman,Sky Young,1
 Caitlyn Kiramman,Smeech,1
+Caitlyn Kiramman,Species,1
 Caitlyn Kiramman,Steb,1
 Caitlyn Kiramman,Swain,1
 Caitlyn Kiramman,Thieram,1
@@ -366,78 +345,14 @@ Caitlyn Kiramman,Tobias Kiramman,2
 Caitlyn Kiramman,Torman Hoskel,1
 Caitlyn Kiramman,Vander,2
 Caitlyn Kiramman,Vern,1
-Caitlyn Kiramman,Vi,17
+Caitlyn Kiramman,Vi,18
 Caitlyn Kiramman,Viktor,1
-Caitlyn Kiramman,Warwick,2
 Caitlyn Kiramman,Ximena Talis,1
-Captured Girl,Amara,1
-Captured Girl,Ambessa Medarda,2
-Captured Girl,Babette,1
-Captured Girl,Benzo,1
-Captured Girl,Caitlyn Kiramman,1
-Captured Girl,Cassandra Kiramman,1
-Captured Girl,Cat,1
-Captured Girl,Cecil B. Heimerdinger,1
-Captured Girl,Chross,1
-Captured Girl,Claggor,1
-Captured Girl,Deckard,1
-Captured Girl,Ekko,1
-Captured Girl,Elora,1
-Captured Girl,Eve,1
-Captured Girl,Finn,1
-Captured Girl,Gert,1
-Captured Girl,Grayson,1
-Captured Girl,Harold,1
-Captured Girl,Huck,1
-Captured Girl,Irius Bolbok,1
-Captured Girl,Isha,1
-Captured Girl,Janna,1
-Captured Girl,Jayce Talis,1
-Captured Girl,Jinx,1
-Captured Girl,Jules,1
-Captured Girl,Kino Medarda,1
-Captured Girl,Lest,1
-Captured Girl,Lock,1
-Captured Girl,Loris,1
-Captured Girl,Madam Margot,1
-Captured Girl,Maddie Nolen,1
-Captured Girl,Marcus,1
-Captured Girl,Mel Medarda,1
-Captured Girl,Mylo,1
-Captured Girl,Mysterious Mage,1
-Captured Girl,Orianna Reveck,1
-Captured Girl,Ran,1
-Captured Girl,Ren,1
-Captured Girl,Renni,2
-Captured Girl,Renni's Son,1
-Captured Girl,Rictus,1
-Captured Girl,Rio,1
-Captured Girl,Salo,1
-Captured Girl,Scar,1
-Captured Girl,Sevika,1
-Captured Girl,Shoola,1
-Captured Girl,Silco,1
-Captured Girl,Singed,1
-Captured Girl,Sky Young,1
-Captured Girl,Smeech,1
-Captured Girl,Steb,1
-Captured Girl,Swain,1
-Captured Girl,Thieram,1
-Captured Girl,Tobias Kiramman,1
-Captured Girl,Torman Hoskel,1
-Captured Girl,Vander,1
-Captured Girl,Vern,1
-Captured Girl,Vi,1
-Captured Girl,Viktor,1
-Captured Girl,Warwick,1
-Captured Girl,Ximena Talis,1
 Cassandra Kiramman,Amara,1
 Cassandra Kiramman,Ambessa Medarda,1
 Cassandra Kiramman,Babette,1
 Cassandra Kiramman,Benzo,1
 Cassandra Kiramman,Caitlyn Kiramman,2
-Cassandra Kiramman,Captured Girl,1
-Cassandra Kiramman,Cat,1
 Cassandra Kiramman,Cecil B. Heimerdinger,1
 Cassandra Kiramman,Chross,1
 Cassandra Kiramman,Claggor,1
@@ -452,20 +367,18 @@ Cassandra Kiramman,Harold,1
 Cassandra Kiramman,Huck,1
 Cassandra Kiramman,Irius Bolbok,1
 Cassandra Kiramman,Isha,1
-Cassandra Kiramman,Janna,1
+Cassandra Kiramman,Janna,2
 Cassandra Kiramman,Jayce Talis,3
 Cassandra Kiramman,Jinx,4
 Cassandra Kiramman,Jules,1
 Cassandra Kiramman,Kino Medarda,1
 Cassandra Kiramman,Lest,1
-Cassandra Kiramman,Lock,1
 Cassandra Kiramman,Loris,1
 Cassandra Kiramman,Madam Margot,1
 Cassandra Kiramman,Maddie Nolen,1
 Cassandra Kiramman,Marcus,2
 Cassandra Kiramman,Mel Medarda,1
 Cassandra Kiramman,Mylo,1
-Cassandra Kiramman,Mysterious Mage,1
 Cassandra Kiramman,Orianna Reveck,1
 Cassandra Kiramman,Ran,1
 Cassandra Kiramman,Ren,1
@@ -481,6 +394,7 @@ Cassandra Kiramman,Silco,4
 Cassandra Kiramman,Singed,1
 Cassandra Kiramman,Sky Young,1
 Cassandra Kiramman,Smeech,1
+Cassandra Kiramman,Species,1
 Cassandra Kiramman,Steb,1
 Cassandra Kiramman,Swain,1
 Cassandra Kiramman,Thieram,1
@@ -490,82 +404,17 @@ Cassandra Kiramman,Vander,1
 Cassandra Kiramman,Vern,1
 Cassandra Kiramman,Vi,2
 Cassandra Kiramman,Viktor,2
-Cassandra Kiramman,Warwick,1
 Cassandra Kiramman,Ximena Talis,1
-Cat,Amara,1
-Cat,Ambessa Medarda,1
-Cat,Babette,1
-Cat,Benzo,1
-Cat,Caitlyn Kiramman,1
-Cat,Captured Girl,1
-Cat,Cassandra Kiramman,1
-Cat,Cecil B. Heimerdinger,1
-Cat,Chross,1
-Cat,Claggor,1
-Cat,Deckard,1
-Cat,Ekko,1
-Cat,Elora,1
-Cat,Eve,1
-Cat,Finn,1
-Cat,Gert,1
-Cat,Grayson,1
-Cat,Harold,1
-Cat,Huck,1
-Cat,Irius Bolbok,1
-Cat,Isha,1
-Cat,Janna,1
-Cat,Jayce Talis,1
-Cat,Jinx,1
-Cat,Jules,1
-Cat,Kino Medarda,1
-Cat,Lest,1
-Cat,Lock,1
-Cat,Loris,1
-Cat,Madam Margot,1
-Cat,Maddie Nolen,1
-Cat,Marcus,1
-Cat,Mel Medarda,1
-Cat,Mylo,1
-Cat,Mysterious Mage,1
-Cat,Orianna Reveck,1
-Cat,Ran,1
-Cat,Ren,1
-Cat,Renni,2
-Cat,Renni's Son,1
-Cat,Rictus,1
-Cat,Rio,1
-Cat,Salo,1
-Cat,Scar,1
-Cat,Sevika,1
-Cat,Shimmer,1
-Cat,Shoola,1
-Cat,Silco,1
-Cat,Singed,2
-Cat,Sky Young,1
-Cat,Smeech,1
-Cat,Steb,1
-Cat,Swain,1
-Cat,Thieram,1
-Cat,Tobias Kiramman,1
-Cat,Torman Hoskel,1
-Cat,Vander,1
-Cat,Vern,1
-Cat,Vi,1
-Cat,Viktor,1
-Cat,Warwick,1
-Cat,Ximena Talis,1
 Cecil B. Heimerdinger,Amara,1
 Cecil B. Heimerdinger,Ambessa Medarda,1
 Cecil B. Heimerdinger,Babette,1
 Cecil B. Heimerdinger,Benzo,1
 Cecil B. Heimerdinger,Caitlyn Kiramman,1
-Cecil B. Heimerdinger,Captured Girl,1
 Cecil B. Heimerdinger,Cassandra Kiramman,1
-Cecil B. Heimerdinger,Cat,1
 Cecil B. Heimerdinger,Chross,1
 Cecil B. Heimerdinger,Claggor,1
 Cecil B. Heimerdinger,Deckard,1
-Cecil B. Heimerdinger,Ekko,5
+Cecil B. Heimerdinger,Ekko,13
 Cecil B. Heimerdinger,Elora,1
 Cecil B. Heimerdinger,Eve,1
 Cecil B. Heimerdinger,Finn,1
@@ -577,18 +426,16 @@ Cecil B. Heimerdinger,Irius Bolbok,1
 Cecil B. Heimerdinger,Isha,1
 Cecil B. Heimerdinger,Janna,1
 Cecil B. Heimerdinger,Jayce Talis,3
-Cecil B. Heimerdinger,Jinx,1
+Cecil B. Heimerdinger,Jinx,2
 Cecil B. Heimerdinger,Jules,1
 Cecil B. Heimerdinger,Kino Medarda,1
 Cecil B. Heimerdinger,Lest,1
-Cecil B. Heimerdinger,Lock,1
 Cecil B. Heimerdinger,Loris,1
 Cecil B. Heimerdinger,Madam Margot,1
 Cecil B. Heimerdinger,Maddie Nolen,1
 Cecil B. Heimerdinger,Marcus,1
 Cecil B. Heimerdinger,Mel Medarda,1
 Cecil B. Heimerdinger,Mylo,1
-Cecil B. Heimerdinger,Mysterious Mage,1
 Cecil B. Heimerdinger,Orianna Reveck,1
 Cecil B. Heimerdinger,Ran,1
 Cecil B. Heimerdinger,Ren,1
@@ -601,9 +448,10 @@ Cecil B. Heimerdinger,Scar,1
 Cecil B. Heimerdinger,Sevika,1
 Cecil B. Heimerdinger,Shoola,1
 Cecil B. Heimerdinger,Silco,1
-Cecil B. Heimerdinger,Singed,2
+Cecil B. Heimerdinger,Singed,3
 Cecil B. Heimerdinger,Sky Young,1
 Cecil B. Heimerdinger,Smeech,1
+Cecil B. Heimerdinger,Species,1
 Cecil B. Heimerdinger,Steb,1
 Cecil B. Heimerdinger,Swain,1
 Cecil B. Heimerdinger,The Hexcore,1
@@ -614,16 +462,13 @@ Cecil B. Heimerdinger,Vander,1
 Cecil B. Heimerdinger,Vern,1
 Cecil B. Heimerdinger,Vi,1
 Cecil B. Heimerdinger,Viktor,7
-Cecil B. Heimerdinger,Warwick,1
 Cecil B. Heimerdinger,Ximena Talis,1
 Chross,Amara,1
 Chross,Ambessa Medarda,1
 Chross,Babette,1
 Chross,Benzo,1
 Chross,Caitlyn Kiramman,2
-Chross,Captured Girl,1
 Chross,Cassandra Kiramman,1
-Chross,Cat,1
 Chross,Cecil B. Heimerdinger,1
 Chross,Claggor,1
 Chross,Deckard,1
@@ -643,14 +488,13 @@ Chross,Jinx,3
 Chross,Jules,1
 Chross,Kino Medarda,1
 Chross,Lest,1
-Chross,Lock,1
 Chross,Loris,1
-Chross,Madam Margot,1
+Chross,Madam Margot,3
 Chross,Maddie Nolen,1
 Chross,Marcus,2
 Chross,Mel Medarda,1
 Chross,Mylo,1
-Chross,Mysterious Mage,1
+Chross,Nero Eso,2
 Chross,Orianna Reveck,1
 Chross,Ran,1
 Chross,Ren,1
@@ -660,12 +504,12 @@ Chross,Rictus,1
 Chross,Rio,1
 Chross,Salo,1
 Chross,Scar,1
-Chross,Sevika,1
+Chross,Sevika,3
 Chross,Shoola,1
 Chross,Silco,9
 Chross,Singed,1
 Chross,Sky Young,1
-Chross,Smeech,1
+Chross,Smeech,2
 Chross,Steb,1
 Chross,Swain,1
 Chross,Thieram,1
@@ -675,20 +519,17 @@ Chross,Vander,1
 Chross,Vern,1
 Chross,Vi,1
 Chross,Viktor,1
-Chross,Warwick,1
 Chross,Ximena Talis,1
 Claggor,Amara,1
 Claggor,Ambessa Medarda,1
 Claggor,Babette,1
 Claggor,Benzo,2
 Claggor,Caitlyn Kiramman,1
-Claggor,Captured Girl,1
 Claggor,Cassandra Kiramman,1
-Claggor,Cat,1
 Claggor,Cecil B. Heimerdinger,1
 Claggor,Chross,1
 Claggor,Deckard,2
-Claggor,Ekko,2
+Claggor,Ekko,3
 Claggor,Elora,1
 Claggor,Eve,1
 Claggor,Finn,1
@@ -704,14 +545,12 @@ Claggor,Jinx,1
 Claggor,Jules,1
 Claggor,Kino Medarda,1
 Claggor,Lest,1
-Claggor,Lock,1
 Claggor,Loris,1
 Claggor,Madam Margot,1
 Claggor,Maddie Nolen,1
 Claggor,Marcus,1
 Claggor,Mel Medarda,1
-Claggor,Mylo,4
-Claggor,Mysterious Mage,1
+Claggor,Mylo,6
 Claggor,Orianna Reveck,1
 Claggor,Ran,1
 Claggor,Ren,1
@@ -727,28 +566,26 @@ Claggor,Silco,1
 Claggor,Singed,1
 Claggor,Sky Young,1
 Claggor,Smeech,1
+Claggor,Species,1
 Claggor,Steb,1
 Claggor,Swain,1
 Claggor,Thieram,1
 Claggor,Tobias Kiramman,1
 Claggor,Torman Hoskel,1
-Claggor,Vander,5
+Claggor,Vander,7
 Claggor,Vern,1
-Claggor,Vi,5
+Claggor,Vi,6
 Claggor,Viktor,1
-Claggor,Warwick,1
 Claggor,Ximena Talis,1
 Claggor/Alternate Universe,Amara,1
 Claggor/Alternate Universe,Ambessa Medarda,1
 Claggor/Alternate Universe,Babette,1
 Claggor/Alternate Universe,Benzo,1
 Claggor/Alternate Universe,Caitlyn Kiramman,1
-Claggor/Alternate Universe,Captured Girl,1
 Claggor/Alternate Universe,Cassandra Kiramman,1
-Claggor/Alternate Universe,Cat,1
 Claggor/Alternate Universe,Cecil B. Heimerdinger,1
 Claggor/Alternate Universe,Chross,1
-Claggor/Alternate Universe,Claggor,11
+Claggor/Alternate Universe,Claggor,12
 Claggor/Alternate Universe,Deckard,1
 Claggor/Alternate Universe,Ekko,5
 Claggor/Alternate Universe,Elora,1
@@ -766,14 +603,12 @@ Claggor/Alternate Universe,Jinx,1
 Claggor/Alternate Universe,Jules,1
 Claggor/Alternate Universe,Kino Medarda,1
 Claggor/Alternate Universe,Lest,1
-Claggor/Alternate Universe,Lock,1
 Claggor/Alternate Universe,Loris,1
 Claggor/Alternate Universe,Madam Margot,1
 Claggor/Alternate Universe,Maddie Nolen,1
 Claggor/Alternate Universe,Marcus,1
 Claggor/Alternate Universe,Mel Medarda,1
 Claggor/Alternate Universe,Mylo,6
-Claggor/Alternate Universe,Mysterious Mage,1
 Claggor/Alternate Universe,Orianna Reveck,1
 Claggor/Alternate Universe,Ran,1
 Claggor/Alternate Universe,Ren,1
@@ -789,25 +624,23 @@ Claggor/Alternate Universe,Silco,1
 Claggor/Alternate Universe,Singed,1
 Claggor/Alternate Universe,Sky Young,1
 Claggor/Alternate Universe,Smeech,1
+Claggor/Alternate Universe,Species,1
 Claggor/Alternate Universe,Steb,1
 Claggor/Alternate Universe,Swain,1
 Claggor/Alternate Universe,Thieram,1
 Claggor/Alternate Universe,Tobias Kiramman,1
 Claggor/Alternate Universe,Torman Hoskel,1
-Claggor/Alternate Universe,Vander,2
+Claggor/Alternate Universe,Vander,3
 Claggor/Alternate Universe,Vern,1
 Claggor/Alternate Universe,Vi,5
 Claggor/Alternate Universe,Viktor,1
-Claggor/Alternate Universe,Warwick,1
 Claggor/Alternate Universe,Ximena Talis,1
 Deckard,Amara,1
 Deckard,Ambessa Medarda,1
 Deckard,Babette,1
 Deckard,Benzo,2
 Deckard,Caitlyn Kiramman,1
-Deckard,Captured Girl,1
 Deckard,Cassandra Kiramman,1
-Deckard,Cat,1
 Deckard,Cecil B. Heimerdinger,1
 Deckard,Chross,1
 Deckard,Claggor,1
@@ -827,14 +660,12 @@ Deckard,Jinx,1
 Deckard,Jules,1
 Deckard,Kino Medarda,1
 Deckard,Lest,1
-Deckard,Lock,1
 Deckard,Loris,1
 Deckard,Madam Margot,1
 Deckard,Maddie Nolen,1
 Deckard,Marcus,1
 Deckard,Mel Medarda,1
 Deckard,Mylo,1
-Deckard,Mysterious Mage,1
 Deckard,Orianna Reveck,1
 Deckard,Ran,1
 Deckard,Ren,1
@@ -845,32 +676,30 @@ Deckard,Rio,1
 Deckard,Salo,1
 Deckard,Scar,1
 Deckard,Sevika,1
-Deckard,Shimmer,4
+Deckard,Shimmer,6
 Deckard,Shoola,1
-Deckard,Silco,6
+Deckard,Silco,9
 Deckard,Singed,2
 Deckard,Sky Young,1
 Deckard,Smeech,1
+Deckard,Species,1
 Deckard,Steb,1
 Deckard,Swain,1
 Deckard,Thieram,1
 Deckard,Tobias Kiramman,1
 Deckard,Torman Hoskel,1
-Deckard,Vander,4
+Deckard,Vander,5
 Deckard,Vern,1
 Deckard,Vi,5
 Deckard,Viktor,1
-Deckard,Warwick,1
 Deckard,Ximena Talis,1
 Ekko,Amara,1
 Ekko,Ambessa Medarda,1
 Ekko,Babette,1
 Ekko,Benzo,10
 Ekko,Caitlyn Kiramman,1
-Ekko,Captured Girl,1
 Ekko,Cassandra Kiramman,1
-Ekko,Cat,1
-Ekko,Cecil B. Heimerdinger,1
+Ekko,Cecil B. Heimerdinger,2
 Ekko,Chross,1
 Ekko,Claggor,3
 Ekko,Deckard,2
@@ -889,14 +718,12 @@ Ekko,Jinx,4
 Ekko,Jules,1
 Ekko,Kino Medarda,1
 Ekko,Lest,1
-Ekko,Lock,1
 Ekko,Loris,1
 Ekko,Madam Margot,1
 Ekko,Maddie Nolen,1
 Ekko,Marcus,1
 Ekko,Mel Medarda,1
 Ekko,Mylo,2
-Ekko,Mysterious Mage,1
 Ekko,Orianna Reveck,1
 Ekko,Ran,1
 Ekko,Ren,1
@@ -913,6 +740,7 @@ Ekko,Silco,8
 Ekko,Singed,1
 Ekko,Sky Young,1
 Ekko,Smeech,1
+Ekko,Species,1
 Ekko,Steb,1
 Ekko,Swain,1
 Ekko,Thieram,1
@@ -920,18 +748,17 @@ Ekko,Tobias Kiramman,1
 Ekko,Torman Hoskel,1
 Ekko,Vander,5
 Ekko,Vern,1
-Ekko,Vi,13
+Ekko,Vi,14
 Ekko,Viktor,1
-Ekko,Warwick,1
 Ekko,Ximena Talis,1
+Ekko/Alternate Universe,Ekko,8
+Ekko/Alternate Universe,Species,1
 Elora,Amara,1
-Elora,Ambessa Medarda,1
+Elora,Ambessa Medarda,3
 Elora,Babette,1
 Elora,Benzo,1
 Elora,Caitlyn Kiramman,1
-Elora,Captured Girl,1
 Elora,Cassandra Kiramman,1
-Elora,Cat,1
 Elora,Cecil B. Heimerdinger,1
 Elora,Chross,1
 Elora,Claggor,1
@@ -947,18 +774,16 @@ Elora,Irius Bolbok,1
 Elora,Isha,1
 Elora,Janna,1
 Elora,Jayce Talis,1
-Elora,Jinx,1
+Elora,Jinx,3
 Elora,Jules,1
-Elora,Kino Medarda,1
-Elora,Lest,1
-Elora,Lock,1
+Elora,Kino Medarda,2
+Elora,Lest,2
 Elora,Loris,1
 Elora,Madam Margot,1
 Elora,Maddie Nolen,1
 Elora,Marcus,1
-Elora,Mel Medarda,2
+Elora,Mel Medarda,3
 Elora,Mylo,1
-Elora,Mysterious Mage,1
 Elora,Orianna Reveck,1
 Elora,Ran,1
 Elora,Ren,1
@@ -966,14 +791,16 @@ Elora,Renni,2
 Elora,Renni's Son,1
 Elora,Rictus,1
 Elora,Rio,1
-Elora,Salo,1
+Elora,Salo,4
 Elora,Scar,1
 Elora,Sevika,1
+Elora,Shimmer,1
 Elora,Shoola,1
 Elora,Silco,1
 Elora,Singed,1
 Elora,Sky Young,1
 Elora,Smeech,1
+Elora,Species,1
 Elora,Steb,1
 Elora,Swain,1
 Elora,Thieram,1
@@ -983,16 +810,13 @@ Elora,Vander,1
 Elora,Vern,1
 Elora,Vi,1
 Elora,Viktor,1
-Elora,Warwick,1
 Elora,Ximena Talis,1
 Eve,Amara,1
 Eve,Ambessa Medarda,1
 Eve,Babette,1
 Eve,Benzo,1
 Eve,Caitlyn Kiramman,1
-Eve,Captured Girl,1
 Eve,Cassandra Kiramman,1
-Eve,Cat,1
 Eve,Cecil B. Heimerdinger,1
 Eve,Chross,1
 Eve,Claggor,1
@@ -1008,18 +832,16 @@ Eve,Irius Bolbok,1
 Eve,Isha,1
 Eve,Janna,1
 Eve,Jayce Talis,1
-Eve,Jinx,2
+Eve,Jinx,10
 Eve,Jules,1
 Eve,Kino Medarda,1
 Eve,Lest,1
-Eve,Lock,1
 Eve,Loris,1
 Eve,Madam Margot,1
 Eve,Maddie Nolen,1
 Eve,Marcus,1
 Eve,Mel Medarda,1
 Eve,Mylo,1
-Eve,Mysterious Mage,1
 Eve,Orianna Reveck,1
 Eve,Ran,1
 Eve,Ren,1
@@ -1030,11 +852,13 @@ Eve,Rio,1
 Eve,Salo,1
 Eve,Scar,1
 Eve,Sevika,1
+Eve,Shimmer,2
 Eve,Shoola,1
 Eve,Silco,1
 Eve,Singed,1
 Eve,Sky Young,1
 Eve,Smeech,1
+Eve,Species,1
 Eve,Steb,1
 Eve,Swain,1
 Eve,Thieram,1
@@ -1042,18 +866,73 @@ Eve,Tobias Kiramman,1
 Eve,Torman Hoskel,1
 Eve,Vander,1
 Eve,Vern,1
-Eve,Vi,2
+Eve,Vi,6
 Eve,Viktor,1
-Eve,Warwick,1
 Eve,Ximena Talis,1
+Felicia,Amara,1
+Felicia,Ambessa Medarda,1
+Felicia,Babette,1
+Felicia,Benzo,1
+Felicia,Caitlyn Kiramman,1
+Felicia,Cassandra Kiramman,1
+Felicia,Cecil B. Heimerdinger,1
+Felicia,Chross,1
+Felicia,Claggor,1
+Felicia,Deckard,1
+Felicia,Ekko,1
+Felicia,Elora,1
+Felicia,Eve,1
+Felicia,Finn,1
+Felicia,Gert,1
+Felicia,Grayson,1
+Felicia,Harold,1
+Felicia,Huck,1
+Felicia,Irius Bolbok,1
+Felicia,Isha,1
+Felicia,Janna,1
+Felicia,Jayce Talis,1
+Felicia,Jinx,2
+Felicia,Jules,1
+Felicia,Kino Medarda,1
+Felicia,Lest,1
+Felicia,Loris,1
+Felicia,Madam Margot,1
+Felicia,Maddie Nolen,1
+Felicia,Marcus,1
+Felicia,Mel Medarda,1
+Felicia,Mylo,1
+Felicia,Orianna Reveck,1
+Felicia,Ran,1
+Felicia,Ren,1
+Felicia,Renni,2
+Felicia,Renni's Son,1
+Felicia,Rictus,1
+Felicia,Rio,1
+Felicia,Salo,1
+Felicia,Scar,1
+Felicia,Sevika,1
+Felicia,Shoola,1
+Felicia,Silco,4
+Felicia,Singed,1
+Felicia,Sky Young,1
+Felicia,Smeech,1
+Felicia,Species,1
+Felicia,Steb,1
+Felicia,Swain,1
+Felicia,Thieram,1
+Felicia,Tobias Kiramman,1
+Felicia,Torman Hoskel,1
+Felicia,Vander,5
+Felicia,Vern,1
+Felicia,Vi,3
+Felicia,Viktor,1
+Felicia,Ximena Talis,1
 Finn,Amara,1
 Finn,Ambessa Medarda,1
 Finn,Babette,1
 Finn,Benzo,1
 Finn,Caitlyn Kiramman,1
-Finn,Captured Girl,1
 Finn,Cassandra Kiramman,1
-Finn,Cat,1
 Finn,Cecil B. Heimerdinger,1
 Finn,Chross,1
 Finn,Claggor,1
@@ -1073,14 +952,12 @@ Finn,Jinx,1
 Finn,Jules,1
 Finn,Kino Medarda,1
 Finn,Lest,1
-Finn,Lock,1
 Finn,Loris,1
 Finn,Madam Margot,1
 Finn,Maddie Nolen,1
 Finn,Marcus,1
 Finn,Mel Medarda,1
 Finn,Mylo,1
-Finn,Mysterious Mage,1
 Finn,Orianna Reveck,1
 Finn,Ran,1
 Finn,Ren,1
@@ -1090,12 +967,13 @@ Finn,Rictus,1
 Finn,Rio,1
 Finn,Salo,1
 Finn,Scar,1
-Finn,Sevika,2
+Finn,Sevika,3
 Finn,Shoola,1
-Finn,Silco,1
+Finn,Silco,2
 Finn,Singed,1
 Finn,Sky Young,1
 Finn,Smeech,1
+Finn,Species,1
 Finn,Steb,1
 Finn,Swain,1
 Finn,Thieram,1
@@ -1105,16 +983,72 @@ Finn,Vander,1
 Finn,Vern,1
 Finn,Vi,1
 Finn,Viktor,1
-Finn,Warwick,1
 Finn,Ximena Talis,1
+Foreign Princess,Amara,1
+Foreign Princess,Ambessa Medarda,3
+Foreign Princess,Babette,1
+Foreign Princess,Benzo,1
+Foreign Princess,Caitlyn Kiramman,1
+Foreign Princess,Cassandra Kiramman,1
+Foreign Princess,Cecil B. Heimerdinger,1
+Foreign Princess,Chross,1
+Foreign Princess,Claggor,1
+Foreign Princess,Deckard,1
+Foreign Princess,Ekko,1
+Foreign Princess,Elora,1
+Foreign Princess,Eve,1
+Foreign Princess,Finn,1
+Foreign Princess,Gert,1
+Foreign Princess,Grayson,1
+Foreign Princess,Harold,1
+Foreign Princess,Huck,1
+Foreign Princess,Illusionary Sorceress,1
+Foreign Princess,Irius Bolbok,1
+Foreign Princess,Isha,1
+Foreign Princess,Janna,1
+Foreign Princess,Jayce Talis,1
+Foreign Princess,Jinx,1
+Foreign Princess,Jules,1
+Foreign Princess,Kino Medarda,1
+Foreign Princess,Lest,1
+Foreign Princess,Loris,1
+Foreign Princess,Madam Margot,1
+Foreign Princess,Maddie Nolen,1
+Foreign Princess,Marcus,1
+Foreign Princess,Mel Medarda,2
+Foreign Princess,Mylo,1
+Foreign Princess,Orianna Reveck,1
+Foreign Princess,Ran,1
+Foreign Princess,Ren,1
+Foreign Princess,Renni,2
+Foreign Princess,Renni's Son,1
+Foreign Princess,Rictus,1
+Foreign Princess,Rio,1
+Foreign Princess,Salo,1
+Foreign Princess,Scar,1
+Foreign Princess,Sevika,1
+Foreign Princess,Shoola,1
+Foreign Princess,Silco,1
+Foreign Princess,Singed,1
+Foreign Princess,Sky Young,1
+Foreign Princess,Smeech,1
+Foreign Princess,Species,1
+Foreign Princess,Steb,1
+Foreign Princess,Swain,1
+Foreign Princess,Thieram,1
+Foreign Princess,Tobias Kiramman,1
+Foreign Princess,Torman Hoskel,1
+Foreign Princess,Vander,1
+Foreign Princess,Vern,1
+Foreign Princess,Vi,1
+Foreign Princess,Viktor,1
+Foreign Princess,Ximena Talis,1
 Gert,Amara,1
 Gert,Ambessa Medarda,1
 Gert,Babette,1
 Gert,Benzo,1
 Gert,Caitlyn Kiramman,1
-Gert,Captured Girl,1
 Gert,Cassandra Kiramman,1
-Gert,Cat,1
 Gert,Cecil B. Heimerdinger,1
 Gert,Chross,1
 Gert,Claggor,1
@@ -1134,15 +1068,14 @@ Gert,Jinx,6
 Gert,Jules,1
 Gert,Kino Medarda,1
 Gert,Lest,1
-Gert,Lock,1
 Gert,Loris,1
 Gert,Madam Margot,1
 Gert,Maddie Nolen,1
 Gert,Marcus,1
 Gert,Mel Medarda,1
 Gert,Mylo,1
-Gert,Mysterious Mage,1
 Gert,Orianna Reveck,1
+Gert,Piltover Police Department,1
 Gert,Ran,1
 Gert,Ren,1
 Gert,Renni,2
@@ -1157,6 +1090,7 @@ Gert,Silco,1
 Gert,Singed,1
 Gert,Sky Young,1
 Gert,Smeech,1
+Gert,Species,1
 Gert,Steb,1
 Gert,Swain,1
 Gert,Thieram,1
@@ -1166,16 +1100,13 @@ Gert,Vander,2
 Gert,Vern,1
 Gert,Vi,3
 Gert,Viktor,2
-Gert,Warwick,1
 Gert,Ximena Talis,1
 Gert/Alternate Universe,Amara,1
 Gert/Alternate Universe,Ambessa Medarda,1
 Gert/Alternate Universe,Babette,1
 Gert/Alternate Universe,Benzo,1
 Gert/Alternate Universe,Caitlyn Kiramman,1
-Gert/Alternate Universe,Captured Girl,1
 Gert/Alternate Universe,Cassandra Kiramman,1
-Gert/Alternate Universe,Cat,1
 Gert/Alternate Universe,Cecil B. Heimerdinger,1
 Gert/Alternate Universe,Chross,1
 Gert/Alternate Universe,Claggor,1
@@ -1184,7 +1115,7 @@ Gert/Alternate Universe,Ekko,1
 Gert/Alternate Universe,Elora,1
 Gert/Alternate Universe,Eve,1
 Gert/Alternate Universe,Finn,1
-Gert/Alternate Universe,Gert,5
+Gert/Alternate Universe,Gert,6
 Gert/Alternate Universe,Grayson,1
 Gert/Alternate Universe,Harold,1
 Gert/Alternate Universe,Huck,1
@@ -1196,14 +1127,12 @@ Gert/Alternate Universe,Jinx,1
 Gert/Alternate Universe,Jules,1
 Gert/Alternate Universe,Kino Medarda,1
 Gert/Alternate Universe,Lest,1
-Gert/Alternate Universe,Lock,1
 Gert/Alternate Universe,Loris,1
 Gert/Alternate Universe,Madam Margot,1
 Gert/Alternate Universe,Maddie Nolen,1
 Gert/Alternate Universe,Marcus,1
 Gert/Alternate Universe,Mel Medarda,1
-Gert/Alternate Universe,Mylo,2
-Gert/Alternate Universe,Mysterious Mage,1
+Gert/Alternate Universe,Mylo,4
 Gert/Alternate Universe,Orianna Reveck,1
 Gert/Alternate Universe,Ran,1
 Gert/Alternate Universe,Ren,1
@@ -1219,6 +1148,7 @@ Gert/Alternate Universe,Silco,1
 Gert/Alternate Universe,Singed,1
 Gert/Alternate Universe,Sky Young,1
 Gert/Alternate Universe,Smeech,1
+Gert/Alternate Universe,Species,1
 Gert/Alternate Universe,Steb,1
 Gert/Alternate Universe,Swain,1
 Gert/Alternate Universe,Thieram,1
@@ -1228,16 +1158,13 @@ Gert/Alternate Universe,Vander,1
 Gert/Alternate Universe,Vern,1
 Gert/Alternate Universe,Vi,1
 Gert/Alternate Universe,Viktor,1
-Gert/Alternate Universe,Warwick,1
 Gert/Alternate Universe,Ximena Talis,1
 Grayson,Amara,1
 Grayson,Ambessa Medarda,1
 Grayson,Babette,1
-Grayson,Benzo,2
+Grayson,Benzo,3
 Grayson,Caitlyn Kiramman,1
-Grayson,Captured Girl,1
 Grayson,Cassandra Kiramman,1
-Grayson,Cat,1
 Grayson,Cecil B. Heimerdinger,1
 Grayson,Chross,1
 Grayson,Claggor,1
@@ -1257,14 +1184,12 @@ Grayson,Jinx,1
 Grayson,Jules,1
 Grayson,Kino Medarda,1
 Grayson,Lest,1
-Grayson,Lock,1
 Grayson,Loris,1
 Grayson,Madam Margot,1
 Grayson,Maddie Nolen,1
-Grayson,Marcus,3
+Grayson,Marcus,4
 Grayson,Mel Medarda,1
 Grayson,Mylo,1
-Grayson,Mysterious Mage,1
 Grayson,Orianna Reveck,1
 Grayson,Ran,1
 Grayson,Ren,1
@@ -1281,25 +1206,81 @@ Grayson,Silco,1
 Grayson,Singed,1
 Grayson,Sky Young,1
 Grayson,Smeech,1
+Grayson,Species,1
 Grayson,Steb,1
 Grayson,Swain,1
 Grayson,Thieram,1
 Grayson,Tobias Kiramman,1
 Grayson,Torman Hoskel,2
-Grayson,Vander,5
+Grayson,Vander,7
 Grayson,Vern,1
 Grayson,Vi,2
 Grayson,Viktor,3
-Grayson,Warwick,1
 Grayson,Ximena Talis,1
+Gustove Jowler,Amara,1
+Gustove Jowler,Ambessa Medarda,1
+Gustove Jowler,Babette,1
+Gustove Jowler,Benzo,1
+Gustove Jowler,Caitlyn Kiramman,1
+Gustove Jowler,Cassandra Kiramman,1
+Gustove Jowler,Cecil B. Heimerdinger,1
+Gustove Jowler,Chross,1
+Gustove Jowler,Claggor,1
+Gustove Jowler,Deckard,1
+Gustove Jowler,Ekko,1
+Gustove Jowler,Elora,1
+Gustove Jowler,Eve,1
+Gustove Jowler,Finn,1
+Gustove Jowler,Gert,1
+Gustove Jowler,Grayson,1
+Gustove Jowler,Harold,1
+Gustove Jowler,Huck,1
+Gustove Jowler,Irius Bolbok,1
+Gustove Jowler,Isha,1
+Gustove Jowler,Janna,1
+Gustove Jowler,Jayce Talis,1
+Gustove Jowler,Jinx,1
+Gustove Jowler,Jules,1
+Gustove Jowler,Kino Medarda,1
+Gustove Jowler,Lest,1
+Gustove Jowler,Loris,1
+Gustove Jowler,Madam Margot,1
+Gustove Jowler,Maddie Nolen,1
+Gustove Jowler,Marcus,1
+Gustove Jowler,Mel Medarda,1
+Gustove Jowler,Mylo,1
+Gustove Jowler,Orianna Reveck,1
+Gustove Jowler,Ran,1
+Gustove Jowler,Ren,1
+Gustove Jowler,Renni,2
+Gustove Jowler,Renni's Son,1
+Gustove Jowler,Rictus,1
+Gustove Jowler,Rio,1
+Gustove Jowler,Salo,1
+Gustove Jowler,Scar,1
+Gustove Jowler,Sevika,1
+Gustove Jowler,Shoola,1
+Gustove Jowler,Silco,3
+Gustove Jowler,Singed,1
+Gustove Jowler,Sky Young,1
+Gustove Jowler,Smeech,1
+Gustove Jowler,Species,1
+Gustove Jowler,Steb,1
+Gustove Jowler,Swain,1
+Gustove Jowler,Thieram,1
+Gustove Jowler,Tobias Kiramman,1
+Gustove Jowler,Torman Hoskel,1
+Gustove Jowler,Vander,1
+Gustove Jowler,Vern,1
+Gustove Jowler,Vi,2
+Gustove Jowler,Viktor,1
+Gustove Jowler,Ximena Talis,1
 Harold,Amara,1
 Harold,Ambessa Medarda,1
 Harold,Babette,1
 Harold,Benzo,1
 Harold,Caitlyn Kiramman,1
-Harold,Captured Girl,1
 Harold,Cassandra Kiramman,1
-Harold,Cat,1
 Harold,Cecil B. Heimerdinger,1
 Harold,Chross,1
 Harold,Claggor,1
@@ -1319,14 +1300,12 @@ Harold,Jinx,1
 Harold,Jules,1
 Harold,Kino Medarda,1
 Harold,Lest,1
-Harold,Lock,1
 Harold,Loris,1
 Harold,Madam Margot,1
 Harold,Maddie Nolen,1
 Harold,Marcus,1
 Harold,Mel Medarda,2
 Harold,Mylo,1
-Harold,Mysterious Mage,1
 Harold,Orianna Reveck,1
 Harold,Piltover Police Department,1
 Harold,Ran,1
@@ -1343,6 +1322,7 @@ Harold,Silco,1
 Harold,Singed,1
 Harold,Sky Young,1
 Harold,Smeech,1
+Harold,Species,1
 Harold,Steb,1
 Harold,Swain,1
 Harold,Thieram,1
@@ -1352,16 +1332,13 @@ Harold,Vander,1
 Harold,Vern,1
 Harold,Vi,1
 Harold,Viktor,2
-Harold,Warwick,1
 Harold,Ximena Talis,1
 Huck,Amara,1
 Huck,Ambessa Medarda,1
 Huck,Babette,1
 Huck,Benzo,1
-Huck,Caitlyn Kiramman,1
-Huck,Captured Girl,1
+Huck,Caitlyn Kiramman,2
 Huck,Cassandra Kiramman,1
-Huck,Cat,1
 Huck,Cecil B. Heimerdinger,1
 Huck,Chross,1
 Huck,Claggor,1
@@ -1376,19 +1353,17 @@ Huck,Harold,1
 Huck,Irius Bolbok,1
 Huck,Isha,1
 Huck,Janna,1
-Huck,Jayce Talis,1
+Huck,Jayce Talis,2
 Huck,Jinx,1
 Huck,Jules,1
 Huck,Kino Medarda,1
 Huck,Lest,1
-Huck,Lock,1
 Huck,Loris,1
 Huck,Madam Margot,1
 Huck,Maddie Nolen,1
 Huck,Marcus,1
-Huck,Mel Medarda,1
+Huck,Mel Medarda,2
 Huck,Mylo,1
-Huck,Mysterious Mage,1
 Huck,Orianna Reveck,1
 Huck,Ran,1
 Huck,Ren,1
@@ -1399,12 +1374,13 @@ Huck,Rio,1
 Huck,Salo,1
 Huck,Scar,1
 Huck,Sevika,2
-Huck,Shimmer,8
+Huck,Shimmer,11
 Huck,Shoola,1
 Huck,Silco,3
 Huck,Singed,1
 Huck,Sky Young,1
 Huck,Smeech,1
+Huck,Species,1
 Huck,Steb,1
 Huck,Swain,1
 Huck,Thieram,1
@@ -1413,17 +1389,19 @@ Huck,Torman Hoskel,1
 Huck,Vander,3
 Huck,Vern,1
 Huck,Vi,4
-Huck,Viktor,2
-Huck,Warwick,1
+Huck,Viktor,8
 Huck,Ximena Talis,1
+Illusionary Sorceress,Ambessa Medarda,1
+Illusionary Sorceress,Elora,2
+Illusionary Sorceress,Mel Medarda,1
+Illusionary Sorceress,Species,1
+Imagine Dragons (characters),Species,1
 Irius Bolbok,Amara,1
 Irius Bolbok,Ambessa Medarda,1
 Irius Bolbok,Babette,1
 Irius Bolbok,Benzo,1
 Irius Bolbok,Caitlyn Kiramman,1
-Irius Bolbok,Captured Girl,1
 Irius Bolbok,Cassandra Kiramman,1
-Irius Bolbok,Cat,1
 Irius Bolbok,Cecil B. Heimerdinger,1
 Irius Bolbok,Chross,1
 Irius Bolbok,Claggor,1
@@ -1443,14 +1421,12 @@ Irius Bolbok,Jinx,3
 Irius Bolbok,Jules,1
 Irius Bolbok,Kino Medarda,1
 Irius Bolbok,Lest,1
-Irius Bolbok,Lock,1
 Irius Bolbok,Loris,1
 Irius Bolbok,Madam Margot,1
 Irius Bolbok,Maddie Nolen,1
 Irius Bolbok,Marcus,1
 Irius Bolbok,Mel Medarda,1
 Irius Bolbok,Mylo,1
-Irius Bolbok,Mysterious Mage,1
 Irius Bolbok,Orianna Reveck,1
 Irius Bolbok,Ran,1
 Irius Bolbok,Ren,1
@@ -1466,6 +1442,7 @@ Irius Bolbok,Silco,2
 Irius Bolbok,Singed,1
 Irius Bolbok,Sky Young,1
 Irius Bolbok,Smeech,1
+Irius Bolbok,Species,1
 Irius Bolbok,Steb,1
 Irius Bolbok,Swain,1
 Irius Bolbok,Thieram,1
@@ -1475,16 +1452,13 @@ Irius Bolbok,Vander,1
 Irius Bolbok,Vern,1
 Irius Bolbok,Vi,1
 Irius Bolbok,Viktor,2
-Irius Bolbok,Warwick,1
 Irius Bolbok,Ximena Talis,1
 Isha,Amara,1
 Isha,Ambessa Medarda,1
 Isha,Babette,1
 Isha,Benzo,1
 Isha,Caitlyn Kiramman,1
-Isha,Captured Girl,1
 Isha,Cassandra Kiramman,1
-Isha,Cat,1
 Isha,Cecil B. Heimerdinger,1
 Isha,Chross,1
 Isha,Claggor,1
@@ -1500,18 +1474,16 @@ Isha,Huck,1
 Isha,Irius Bolbok,1
 Isha,Janna,1
 Isha,Jayce Talis,1
-Isha,Jinx,25
+Isha,Jinx,29
 Isha,Jules,1
 Isha,Kino Medarda,1
 Isha,Lest,1
-Isha,Lock,1
 Isha,Loris,1
 Isha,Madam Margot,1
 Isha,Maddie Nolen,1
 Isha,Marcus,1
 Isha,Mel Medarda,1
 Isha,Mylo,1
-Isha,Mysterious Mage,1
 Isha,Orianna Reveck,1
 Isha,Ran,2
 Isha,Ren,1
@@ -1527,25 +1499,23 @@ Isha,Silco,1
 Isha,Singed,1
 Isha,Sky Young,1
 Isha,Smeech,1
+Isha,Species,1
 Isha,Steb,1
 Isha,Swain,1
 Isha,Thieram,1
 Isha,Tobias Kiramman,1
 Isha,Torman Hoskel,1
-Isha,Vander,6
+Isha,Vander,7
 Isha,Vern,1
-Isha,Vi,5
+Isha,Vi,7
 Isha,Viktor,1
-Isha,Warwick,2
 Isha,Ximena Talis,1
 Janna,Amara,1
 Janna,Ambessa Medarda,1
 Janna,Babette,1
 Janna,Benzo,1
-Janna,Caitlyn Kiramman,1
-Janna,Captured Girl,1
-Janna,Cassandra Kiramman,1
-Janna,Cat,1
+Janna,Caitlyn Kiramman,2
+Janna,Cassandra Kiramman,2
 Janna,Cecil B. Heimerdinger,1
 Janna,Chross,1
 Janna,Claggor,1
@@ -1561,18 +1531,16 @@ Janna,Huck,1
 Janna,Irius Bolbok,1
 Janna,Isha,1
 Janna,Jayce Talis,1
-Janna,Jinx,1
+Janna,Jinx,2
 Janna,Jules,1
 Janna,Kino Medarda,1
 Janna,Lest,1
-Janna,Lock,1
 Janna,Loris,1
 Janna,Madam Margot,1
 Janna,Maddie Nolen,1
 Janna,Marcus,1
 Janna,Mel Medarda,1
 Janna,Mylo,1
-Janna,Mysterious Mage,1
 Janna,Orianna Reveck,1
 Janna,Ran,1
 Janna,Ren,1
@@ -1582,12 +1550,13 @@ Janna,Rictus,1
 Janna,Rio,1
 Janna,Salo,1
 Janna,Scar,1
-Janna,Sevika,1
+Janna,Sevika,2
 Janna,Shoola,1
 Janna,Silco,1
 Janna,Singed,1
 Janna,Sky Young,1
 Janna,Smeech,1
+Janna,Species,1
 Janna,Steb,1
 Janna,Swain,1
 Janna,Thieram,1
@@ -1595,19 +1564,16 @@ Janna,Tobias Kiramman,1
 Janna,Torman Hoskel,1
 Janna,Vander,1
 Janna,Vern,1
-Janna,Vi,1
+Janna,Vi,2
 Janna,Viktor,1
-Janna,Warwick,1
 Janna,Ximena Talis,1
 Jayce Talis,Amara,1
 Jayce Talis,Ambessa Medarda,1
 Jayce Talis,Babette,1
 Jayce Talis,Benzo,2
-Jayce Talis,Caitlyn Kiramman,1
-Jayce Talis,Captured Girl,1
+Jayce Talis,Caitlyn Kiramman,2
 Jayce Talis,Cassandra Kiramman,1
-Jayce Talis,Cat,1
-Jayce Talis,Cecil B. Heimerdinger,1
+Jayce Talis,Cecil B. Heimerdinger,2
 Jayce Talis,Chross,1
 Jayce Talis,Claggor,1
 Jayce Talis,Deckard,1
@@ -1626,14 +1592,12 @@ Jayce Talis,Jinx,1
 Jayce Talis,Jules,1
 Jayce Talis,Kino Medarda,1
 Jayce Talis,Lest,1
-Jayce Talis,Lock,1
 Jayce Talis,Loris,1
 Jayce Talis,Madam Margot,1
 Jayce Talis,Maddie Nolen,1
 Jayce Talis,Marcus,2
 Jayce Talis,Mel Medarda,4
 Jayce Talis,Mylo,1
-Jayce Talis,Mysterious Mage,1
 Jayce Talis,Orianna Reveck,1
 Jayce Talis,Ran,1
 Jayce Talis,Ren,1
@@ -1649,6 +1613,7 @@ Jayce Talis,Silco,1
 Jayce Talis,Singed,1
 Jayce Talis,Sky Young,1
 Jayce Talis,Smeech,1
+Jayce Talis,Species,1
 Jayce Talis,Steb,1
 Jayce Talis,Swain,1
 Jayce Talis,Thieram,1
@@ -1656,25 +1621,24 @@ Jayce Talis,Tobias Kiramman,1
 Jayce Talis,Torman Hoskel,1
 Jayce Talis,Vander,1
 Jayce Talis,Vern,1
-Jayce Talis,Vi,2
-Jayce Talis,Viktor,23
-Jayce Talis,Warwick,1
+Jayce Talis,Vi,3
+Jayce Talis,Viktor,26
 Jayce Talis,Ximena Talis,2
+Jericho,Species,2
 Jinx,Amara,1
 Jinx,Ambessa Medarda,1
 Jinx,Babette,1
 Jinx,Benzo,2
 Jinx,Caitlyn Kiramman,1
-Jinx,Captured Girl,1
 Jinx,Cassandra Kiramman,2
-Jinx,Cat,1
 Jinx,Cecil B. Heimerdinger,1
 Jinx,Chross,1
 Jinx,Claggor,7
 Jinx,Deckard,2
-Jinx,Ekko,12
+Jinx,Ekko,11
 Jinx,Elora,1
 Jinx,Eve,1
+Jinx,Felicia,2
 Jinx,Finn,1
 Jinx,Gert,1
 Jinx,Grayson,1
@@ -1687,14 +1651,12 @@ Jinx,Jayce Talis,1
 Jinx,Jules,1
 Jinx,Kino Medarda,1
 Jinx,Lest,1
-Jinx,Lock,1
 Jinx,Loris,1
 Jinx,Madam Margot,1
 Jinx,Maddie Nolen,1
 Jinx,Marcus,2
 Jinx,Mel Medarda,1
-Jinx,Mylo,13
-Jinx,Mysterious Mage,1
+Jinx,Mylo,12
 Jinx,Orianna Reveck,1
 Jinx,Ran,1
 Jinx,Ren,1
@@ -1705,12 +1667,13 @@ Jinx,Rio,1
 Jinx,Salo,1
 Jinx,Scar,1
 Jinx,Sevika,4
-Jinx,Shimmer,11
+Jinx,Shimmer,9
 Jinx,Shoola,1
-Jinx,Silco,20
+Jinx,Silco,19
 Jinx,Singed,3
 Jinx,Sky Young,1
-Jinx,Smeech,1
+Jinx,Smeech,2
+Jinx,Species,1
 Jinx,Steb,1
 Jinx,Swain,1
 Jinx,Thieram,1
@@ -1718,18 +1681,15 @@ Jinx,Tobias Kiramman,1
 Jinx,Torman Hoskel,2
 Jinx,Vander,16
 Jinx,Vern,1
-Jinx,Vi,42
+Jinx,Vi,38
 Jinx,Viktor,1
-Jinx,Warwick,2
 Jinx,Ximena Talis,1
 Jules,Amara,1
 Jules,Ambessa Medarda,1
 Jules,Babette,1
 Jules,Benzo,1
 Jules,Caitlyn Kiramman,1
-Jules,Captured Girl,1
 Jules,Cassandra Kiramman,1
-Jules,Cat,1
 Jules,Cecil B. Heimerdinger,1
 Jules,Chross,1
 Jules,Claggor,1
@@ -1749,14 +1709,12 @@ Jules,Jayce Talis,1
 Jules,Jinx,1
 Jules,Kino Medarda,1
 Jules,Lest,1
-Jules,Lock,1
 Jules,Loris,1
 Jules,Madam Margot,1
 Jules,Maddie Nolen,1
 Jules,Marcus,1
 Jules,Mel Medarda,1
 Jules,Mylo,1
-Jules,Mysterious Mage,1
 Jules,Orianna Reveck,1
 Jules,Ran,1
 Jules,Ren,1
@@ -1772,6 +1730,7 @@ Jules,Silco,1
 Jules,Singed,1
 Jules,Sky Young,1
 Jules,Smeech,1
+Jules,Species,1
 Jules,Steb,1
 Jules,Swain,1
 Jules,Thieram,1
@@ -1781,16 +1740,13 @@ Jules,Vander,5
 Jules,Vern,5
 Jules,Vi,2
 Jules,Viktor,1
-Jules,Warwick,1
 Jules,Ximena Talis,1
 Kino Medarda,Amara,1
-Kino Medarda,Ambessa Medarda,3
+Kino Medarda,Ambessa Medarda,4
 Kino Medarda,Babette,1
 Kino Medarda,Benzo,1
 Kino Medarda,Caitlyn Kiramman,1
-Kino Medarda,Captured Girl,1
 Kino Medarda,Cassandra Kiramman,1
-Kino Medarda,Cat,1
 Kino Medarda,Cecil B. Heimerdinger,1
 Kino Medarda,Chross,1
 Kino Medarda,Claggor,1
@@ -1810,14 +1766,12 @@ Kino Medarda,Jayce Talis,1
 Kino Medarda,Jinx,1
 Kino Medarda,Jules,1
 Kino Medarda,Lest,1
-Kino Medarda,Lock,1
 Kino Medarda,Loris,1
 Kino Medarda,Madam Margot,1
 Kino Medarda,Maddie Nolen,1
 Kino Medarda,Marcus,1
-Kino Medarda,Mel Medarda,3
+Kino Medarda,Mel Medarda,4
 Kino Medarda,Mylo,1
-Kino Medarda,Mysterious Mage,1
 Kino Medarda,Orianna Reveck,1
 Kino Medarda,Ran,1
 Kino Medarda,Ren,1
@@ -1833,6 +1787,7 @@ Kino Medarda,Silco,1
 Kino Medarda,Singed,1
 Kino Medarda,Sky Young,1
 Kino Medarda,Smeech,1
+Kino Medarda,Species,1
 Kino Medarda,Steb,1
 Kino Medarda,Swain,1
 Kino Medarda,Thieram,1
@@ -1842,16 +1797,13 @@ Kino Medarda,Vander,1
 Kino Medarda,Vern,1
 Kino Medarda,Vi,1
 Kino Medarda,Viktor,1
-Kino Medarda,Warwick,1
 Kino Medarda,Ximena Talis,1
 Lest,Amara,1
 Lest,Ambessa Medarda,2
 Lest,Babette,1
 Lest,Benzo,1
 Lest,Caitlyn Kiramman,1
-Lest,Captured Girl,1
 Lest,Cassandra Kiramman,1
-Lest,Cat,3
 Lest,Cecil B. Heimerdinger,1
 Lest,Chross,1
 Lest,Claggor,1
@@ -1871,14 +1823,12 @@ Lest,Jayce Talis,1
 Lest,Jinx,1
 Lest,Jules,1
 Lest,Kino Medarda,1
-Lest,Lock,1
 Lest,Loris,1
 Lest,Madam Margot,1
 Lest,Maddie Nolen,1
 Lest,Marcus,1
-Lest,Mel Medarda,4
+Lest,Mel Medarda,5
 Lest,Mylo,1
-Lest,Mysterious Mage,1
 Lest,Orianna Reveck,1
 Lest,Ran,1
 Lest,Ren,1
@@ -1886,7 +1836,7 @@ Lest,Renni,2
 Lest,Renni's Son,1
 Lest,Rictus,1
 Lest,Rio,1
-Lest,Salo,6
+Lest,Salo,7
 Lest,Scar,2
 Lest,Sevika,1
 Lest,Shimmer,3
@@ -1895,6 +1845,7 @@ Lest,Silco,1
 Lest,Singed,1
 Lest,Sky Young,1
 Lest,Smeech,1
+Lest,Species,1
 Lest,Steb,1
 Lest,Swain,1
 Lest,Thieram,1
@@ -1904,77 +1855,13 @@ Lest,Vander,1
 Lest,Vern,1
 Lest,Vi,1
 Lest,Viktor,2
-Lest,Warwick,1
 Lest,Ximena Talis,1
-Lock,Amara,1
-Lock,Ambessa Medarda,1
-Lock,Babette,1
-Lock,Benzo,1
-Lock,Caitlyn Kiramman,1
-Lock,Captured Girl,1
-Lock,Cassandra Kiramman,1
-Lock,Cat,1
-Lock,Cecil B. Heimerdinger,1
-Lock,Chross,1
-Lock,Claggor,1
-Lock,Deckard,1
-Lock,Ekko,1
-Lock,Elora,1
-Lock,Eve,1
-Lock,Finn,1
-Lock,Gert,1
-Lock,Grayson,1
-Lock,Harold,1
-Lock,Huck,1
-Lock,Irius Bolbok,1
-Lock,Isha,1
-Lock,Janna,1
-Lock,Jayce Talis,1
-Lock,Jinx,1
-Lock,Jules,1
-Lock,Kino Medarda,1
-Lock,Lest,1
-Lock,Loris,1
-Lock,Madam Margot,1
-Lock,Maddie Nolen,1
-Lock,Marcus,1
-Lock,Mel Medarda,1
-Lock,Mylo,1
-Lock,Mysterious Mage,1
-Lock,Orianna Reveck,1
-Lock,Ran,1
-Lock,Ren,1
-Lock,Renni,2
-Lock,Renni's Son,1
-Lock,Rictus,1
-Lock,Rio,1
-Lock,Salo,1
-Lock,Scar,1
-Lock,Sevika,1
-Lock,Shoola,1
-Lock,Silco,3
-Lock,Singed,1
-Lock,Sky Young,1
-Lock,Smeech,1
-Lock,Steb,1
-Lock,Swain,1
-Lock,Thieram,1
-Lock,Tobias Kiramman,1
-Lock,Torman Hoskel,1
-Lock,Vander,1
-Lock,Vern,1
-Lock,Vi,2
-Lock,Viktor,1
-Lock,Warwick,1
-Lock,Ximena Talis,1
 Loris,Amara,1
 Loris,Ambessa Medarda,1
 Loris,Babette,1
 Loris,Benzo,1
 Loris,Caitlyn Kiramman,1
-Loris,Captured Girl,1
 Loris,Cassandra Kiramman,1
-Loris,Cat,1
 Loris,Cecil B. Heimerdinger,1
 Loris,Chross,1
 Loris,Claggor,1
@@ -1991,21 +1878,20 @@ Loris,Irius Bolbok,1
 Loris,Isha,1
 Loris,Janna,1
 Loris,Jayce Talis,1
-Loris,Jinx,1
+Loris,Jinx,4
 Loris,Jules,1
 Loris,Kino Medarda,1
 Loris,Lest,1
-Loris,Lock,1
 Loris,Madam Margot,1
-Loris,Maddie Nolen,1
+Loris,Maddie Nolen,2
 Loris,Marcus,1
 Loris,Mel Medarda,1
 Loris,Mylo,1
-Loris,Mysterious Mage,1
 Loris,Orianna Reveck,1
+Loris,Piltover Police Department,1
 Loris,Ran,1
 Loris,Ren,1
-Loris,Renni,2
+Loris,Renni,3
 Loris,Renni's Son,1
 Loris,Rictus,1
 Loris,Rio,1
@@ -2017,27 +1903,25 @@ Loris,Silco,1
 Loris,Singed,1
 Loris,Sky Young,1
 Loris,Smeech,1
-Loris,Steb,2
+Loris,Species,1
+Loris,Steb,5
 Loris,Swain,1
 Loris,Thieram,1
 Loris,Tobias Kiramman,1
 Loris,Torman Hoskel,1
 Loris,Vander,4
 Loris,Vern,1
-Loris,Vi,5
+Loris,Vi,13
 Loris,Viktor,1
-Loris,Warwick,1
 Loris,Ximena Talis,1
 Madam Margot,Amara,1
 Madam Margot,Ambessa Medarda,1
 Madam Margot,Babette,1
 Madam Margot,Benzo,1
 Madam Margot,Caitlyn Kiramman,1
-Madam Margot,Captured Girl,1
 Madam Margot,Cassandra Kiramman,1
-Madam Margot,Cat,1
 Madam Margot,Cecil B. Heimerdinger,1
-Madam Margot,Chross,1
+Madam Margot,Chross,2
 Madam Margot,Claggor,1
 Madam Margot,Deckard,1
 Madam Margot,Ekko,1
@@ -2056,13 +1940,11 @@ Madam Margot,Jinx,1
 Madam Margot,Jules,1
 Madam Margot,Kino Medarda,1
 Madam Margot,Lest,1
-Madam Margot,Lock,1
 Madam Margot,Loris,1
 Madam Margot,Maddie Nolen,1
 Madam Margot,Marcus,1
 Madam Margot,Mel Medarda,1
 Madam Margot,Mylo,1
-Madam Margot,Mysterious Mage,1
 Madam Margot,Orianna Reveck,1
 Madam Margot,Ran,1
 Madam Margot,Ren,1
@@ -2078,6 +1960,7 @@ Madam Margot,Silco,1
 Madam Margot,Singed,1
 Madam Margot,Sky Young,1
 Madam Margot,Smeech,1
+Madam Margot,Species,1
 Madam Margot,Steb,1
 Madam Margot,Swain,1
 Madam Margot,Thieram,1
@@ -2087,16 +1970,13 @@ Madam Margot,Vander,1
 Madam Margot,Vern,1
 Madam Margot,Vi,1
 Madam Margot,Viktor,1
-Madam Margot,Warwick,1
 Madam Margot,Ximena Talis,1
 Maddie Nolen,Amara,1
-Maddie Nolen,Ambessa Medarda,1
+Maddie Nolen,Ambessa Medarda,4
 Maddie Nolen,Babette,1
 Maddie Nolen,Benzo,1
-Maddie Nolen,Caitlyn Kiramman,3
-Maddie Nolen,Captured Girl,1
+Maddie Nolen,Caitlyn Kiramman,5
 Maddie Nolen,Cassandra Kiramman,1
-Maddie Nolen,Cat,1
 Maddie Nolen,Cecil B. Heimerdinger,1
 Maddie Nolen,Chross,1
 Maddie Nolen,Claggor,1
@@ -2113,20 +1993,19 @@ Maddie Nolen,Irius Bolbok,1
 Maddie Nolen,Isha,1
 Maddie Nolen,Janna,1
 Maddie Nolen,Jayce Talis,1
-Maddie Nolen,Jinx,1
+Maddie Nolen,Jinx,2
 Maddie Nolen,Jules,1
 Maddie Nolen,Kino Medarda,1
 Maddie Nolen,Lest,1
-Maddie Nolen,Lock,1
-Maddie Nolen,Loris,2
+Maddie Nolen,Loris,3
 Maddie Nolen,Madam Margot,1
 Maddie Nolen,Marcus,1
 Maddie Nolen,Mel Medarda,2
 Maddie Nolen,Mylo,1
-Maddie Nolen,Mysterious Mage,1
 Maddie Nolen,Orianna Reveck,1
+Maddie Nolen,Piltover Police Department,2
 Maddie Nolen,Ran,1
-Maddie Nolen,Ren,1
+Maddie Nolen,Ren,2
 Maddie Nolen,Renni,2
 Maddie Nolen,Renni's Son,1
 Maddie Nolen,Rictus,1
@@ -2139,35 +2018,33 @@ Maddie Nolen,Silco,1
 Maddie Nolen,Singed,1
 Maddie Nolen,Sky Young,1
 Maddie Nolen,Smeech,1
-Maddie Nolen,Steb,1
+Maddie Nolen,Species,1
+Maddie Nolen,Steb,2
 Maddie Nolen,Swain,1
 Maddie Nolen,Thieram,1
 Maddie Nolen,Tobias Kiramman,1
 Maddie Nolen,Torman Hoskel,1
 Maddie Nolen,Vander,1
 Maddie Nolen,Vern,1
-Maddie Nolen,Vi,3
+Maddie Nolen,Vi,5
 Maddie Nolen,Viktor,1
-Maddie Nolen,Warwick,1
 Maddie Nolen,Ximena Talis,1
 Marcus,Amara,1
 Marcus,Ambessa Medarda,1
 Marcus,Babette,1
-Marcus,Benzo,1
+Marcus,Benzo,2
 Marcus,Caitlyn Kiramman,1
-Marcus,Captured Girl,1
 Marcus,Cassandra Kiramman,1
-Marcus,Cat,1
 Marcus,Cecil B. Heimerdinger,1
 Marcus,Chross,1
-Marcus,Claggor,1
-Marcus,Deckard,1
+Marcus,Claggor,2
+Marcus,Deckard,2
 Marcus,Ekko,1
 Marcus,Elora,1
 Marcus,Eve,1
 Marcus,Finn,1
 Marcus,Gert,1
-Marcus,Grayson,7
+Marcus,Grayson,8
 Marcus,Harold,1
 Marcus,Huck,1
 Marcus,Irius Bolbok,1
@@ -2178,15 +2055,13 @@ Marcus,Jinx,5
 Marcus,Jules,1
 Marcus,Kino Medarda,1
 Marcus,Lest,1
-Marcus,Lock,1
 Marcus,Loris,1
 Marcus,Madam Margot,1
 Marcus,Maddie Nolen,1
 Marcus,Mel Medarda,1
-Marcus,Mylo,1
-Marcus,Mysterious Mage,1
+Marcus,Mylo,2
 Marcus,Orianna Reveck,1
-Marcus,Piltover Police Department,1
+Marcus,Piltover Police Department,2
 Marcus,Ran,1
 Marcus,Ren,2
 Marcus,Renni,2
@@ -2196,11 +2071,13 @@ Marcus,Rio,1
 Marcus,Salo,1
 Marcus,Scar,1
 Marcus,Sevika,1
+Marcus,Shimmer,1
 Marcus,Shoola,1
-Marcus,Silco,21
+Marcus,Silco,22
 Marcus,Singed,1
 Marcus,Sky Young,1
 Marcus,Smeech,1
+Marcus,Species,1
 Marcus,Steb,1
 Marcus,Swain,1
 Marcus,Thieram,1
@@ -2208,18 +2085,15 @@ Marcus,Tobias Kiramman,1
 Marcus,Torman Hoskel,1
 Marcus,Vander,5
 Marcus,Vern,1
-Marcus,Vi,5
+Marcus,Vi,6
 Marcus,Viktor,1
-Marcus,Warwick,1
 Marcus,Ximena Talis,1
 Marcus (Alternate Universe),Amara,1
 Marcus (Alternate Universe),Ambessa Medarda,1
 Marcus (Alternate Universe),Babette,1
 Marcus (Alternate Universe),Benzo,1
 Marcus (Alternate Universe),Caitlyn Kiramman,1
-Marcus (Alternate Universe),Captured Girl,1
 Marcus (Alternate Universe),Cassandra Kiramman,1
-Marcus (Alternate Universe),Cat,1
 Marcus (Alternate Universe),Cecil B. Heimerdinger,1
 Marcus (Alternate Universe),Chross,1
 Marcus (Alternate Universe),Claggor,1
@@ -2240,14 +2114,12 @@ Marcus (Alternate Universe),Jinx,1
 Marcus (Alternate Universe),Jules,1
 Marcus (Alternate Universe),Kino Medarda,1
 Marcus (Alternate Universe),Lest,1
-Marcus (Alternate Universe),Lock,1
 Marcus (Alternate Universe),Loris,1
 Marcus (Alternate Universe),Madam Margot,1
 Marcus (Alternate Universe),Maddie Nolen,1
-Marcus (Alternate Universe),Marcus,2
+Marcus (Alternate Universe),Marcus,3
 Marcus (Alternate Universe),Mel Medarda,1
 Marcus (Alternate Universe),Mylo,1
-Marcus (Alternate Universe),Mysterious Mage,1
 Marcus (Alternate Universe),Orianna Reveck,1
 Marcus (Alternate Universe),Ran,1
 Marcus (Alternate Universe),Ren,1
@@ -2263,6 +2135,7 @@ Marcus (Alternate Universe),Silco,1
 Marcus (Alternate Universe),Singed,1
 Marcus (Alternate Universe),Sky Young,1
 Marcus (Alternate Universe),Smeech,1
+Marcus (Alternate Universe),Species,1
 Marcus (Alternate Universe),Steb,1
 Marcus (Alternate Universe),Swain,1
 Marcus (Alternate Universe),Thieram,1
@@ -2272,77 +2145,83 @@ Marcus (Alternate Universe),Vander,1
 Marcus (Alternate Universe),Vern,1
 Marcus (Alternate Universe),Vi,1
 Marcus (Alternate Universe),Viktor,1
-Marcus (Alternate Universe),Warwick,1
 Marcus (Alternate Universe),Ximena Talis,1
-Mel Medarda,Amara,1
-Mel Medarda,Ambessa Medarda,2
+Mel Medarda,Amara,5
+Mel Medarda,Ambessa Medarda,3
 Mel Medarda,Babette,1
 Mel Medarda,Benzo,1
 Mel Medarda,Caitlyn Kiramman,1
-Mel Medarda,Captured Girl,1
 Mel Medarda,Cassandra Kiramman,1
-Mel Medarda,Cat,1
 Mel Medarda,Cecil B. Heimerdinger,1
 Mel Medarda,Chross,1
 Mel Medarda,Claggor,1
 Mel Medarda,Deckard,1
 Mel Medarda,Ekko,1
-Mel Medarda,Elora,4
+Mel Medarda,Elora,12
 Mel Medarda,Eve,1
 Mel Medarda,Finn,1
+Mel Medarda,Foreign Princess,2
 Mel Medarda,Gert,1
 Mel Medarda,Grayson,2
 Mel Medarda,Harold,2
 Mel Medarda,Huck,1
+Mel Medarda,Illusionary Sorceress,4
 Mel Medarda,Irius Bolbok,1
 Mel Medarda,Isha,1
 Mel Medarda,Janna,1
 Mel Medarda,Jayce Talis,3
-Mel Medarda,Jinx,1
+Mel Medarda,Jinx,3
 Mel Medarda,Jules,1
 Mel Medarda,Kino Medarda,2
-Mel Medarda,Lest,1
-Mel Medarda,Lock,1
+Mel Medarda,Lest,5
 Mel Medarda,Loris,1
 Mel Medarda,Madam Margot,1
 Mel Medarda,Maddie Nolen,1
-Mel Medarda,Marcus,2
+Mel Medarda,Marcus,5
 Mel Medarda,Mylo,1
-Mel Medarda,Mysterious Mage,1
 Mel Medarda,Orianna Reveck,1
 Mel Medarda,Ran,1
 Mel Medarda,Ren,1
-Mel Medarda,Renni,2
+Mel Medarda,Renni,4
 Mel Medarda,Renni's Son,1
 Mel Medarda,Rictus,1
 Mel Medarda,Rio,1
-Mel Medarda,Salo,1
+Mel Medarda,Salo,9
 Mel Medarda,Scar,1
 Mel Medarda,Sevika,1
-Mel Medarda,Shoola,1
-Mel Medarda,Silco,1
+Mel Medarda,Shoola,5
+Mel Medarda,Silco,2
 Mel Medarda,Singed,1
 Mel Medarda,Sky Young,1
 Mel Medarda,Smeech,1
-Mel Medarda,Steb,1
+Mel Medarda,Species,1
+Mel Medarda,Steb,2
 Mel Medarda,Swain,1
+Mel Medarda,The Hexcore,3
 Mel Medarda,Thieram,1
 Mel Medarda,Tobias Kiramman,1
 Mel Medarda,Torman Hoskel,2
 Mel Medarda,Vander,1
 Mel Medarda,Vern,1
-Mel Medarda,Vi,1
-Mel Medarda,Viktor,3
-Mel Medarda,Warwick,1
+Mel Medarda,Vi,4
+Mel Medarda,Viktor,16
 Mel Medarda,Ximena Talis,1
+Minor Characters,Ambessa Medarda,5
+Minor Characters,Babette,3
+Minor Characters,Felicia,1
+Minor Characters,Jayce Talis,1
+Minor Characters,Jinx,2
+Minor Characters,Kino Medarda,1
+Minor Characters,Mel Medarda,1
+Minor Characters,Species,7
+Minor Characters,Vi,2
+Minor Characters,Ximena Talis,1
 Mylo,Amara,1
 Mylo,Ambessa Medarda,1
 Mylo,Babette,1
 Mylo,Benzo,1
 Mylo,Caitlyn Kiramman,1
-Mylo,Captured Girl,1
 Mylo,Cassandra Kiramman,1
-Mylo,Cat,1
 Mylo,Cecil B. Heimerdinger,1
 Mylo,Chross,1
 Mylo,Claggor,8
@@ -2363,13 +2242,11 @@ Mylo,Jinx,4
 Mylo,Jules,1
 Mylo,Kino Medarda,1
 Mylo,Lest,1
-Mylo,Lock,2
 Mylo,Loris,1
 Mylo,Madam Margot,1
 Mylo,Maddie Nolen,1
 Mylo,Marcus,1
 Mylo,Mel Medarda,1
-Mylo,Mysterious Mage,1
 Mylo,Orianna Reveck,1
 Mylo,Ran,1
 Mylo,Ren,1
@@ -2386,6 +2263,7 @@ Mylo,Silco,4
 Mylo,Singed,1
 Mylo,Sky Young,1
 Mylo,Smeech,1
+Mylo,Species,1
 Mylo,Steb,1
 Mylo,Swain,1
 Mylo,Thieram,1
@@ -2395,16 +2273,13 @@ Mylo,Vander,8
 Mylo,Vern,1
 Mylo,Vi,8
 Mylo,Viktor,1
-Mylo,Warwick,1
 Mylo,Ximena Talis,1
 Mylo/Alternate Universe,Amara,1
 Mylo/Alternate Universe,Ambessa Medarda,1
 Mylo/Alternate Universe,Babette,1
 Mylo/Alternate Universe,Benzo,1
 Mylo/Alternate Universe,Caitlyn Kiramman,1
-Mylo/Alternate Universe,Captured Girl,1
 Mylo/Alternate Universe,Cassandra Kiramman,1
-Mylo/Alternate Universe,Cat,1
 Mylo/Alternate Universe,Cecil B. Heimerdinger,1
 Mylo/Alternate Universe,Chross,1
 Mylo/Alternate Universe,Claggor,5
@@ -2425,14 +2300,12 @@ Mylo/Alternate Universe,Jinx,1
 Mylo/Alternate Universe,Jules,1
 Mylo/Alternate Universe,Kino Medarda,1
 Mylo/Alternate Universe,Lest,1
-Mylo/Alternate Universe,Lock,1
 Mylo/Alternate Universe,Loris,1
 Mylo/Alternate Universe,Madam Margot,1
 Mylo/Alternate Universe,Maddie Nolen,1
 Mylo/Alternate Universe,Marcus,1
 Mylo/Alternate Universe,Mel Medarda,1
 Mylo/Alternate Universe,Mylo,10
-Mylo/Alternate Universe,Mysterious Mage,1
 Mylo/Alternate Universe,Orianna Reveck,1
 Mylo/Alternate Universe,Ran,1
 Mylo/Alternate Universe,Ren,1
@@ -2448,6 +2321,7 @@ Mylo/Alternate Universe,Silco,1
 Mylo/Alternate Universe,Singed,1
 Mylo/Alternate Universe,Sky Young,1
 Mylo/Alternate Universe,Smeech,1
+Mylo/Alternate Universe,Species,1
 Mylo/Alternate Universe,Steb,1
 Mylo/Alternate Universe,Swain,1
 Mylo/Alternate Universe,Thieram,1
@@ -2457,78 +2331,14 @@ Mylo/Alternate Universe,Vander,2
 Mylo/Alternate Universe,Vern,1
 Mylo/Alternate Universe,Vi,5
 Mylo/Alternate Universe,Viktor,1
-Mylo/Alternate Universe,Warwick,1
 Mylo/Alternate Universe,Ximena Talis,1
-Mysterious Mage,Amara,1
-Mysterious Mage,Ambessa Medarda,1
-Mysterious Mage,Babette,1
-Mysterious Mage,Benzo,1
-Mysterious Mage,Caitlyn Kiramman,1
-Mysterious Mage,Captured Girl,1
-Mysterious Mage,Cassandra Kiramman,1
-Mysterious Mage,Cat,1
-Mysterious Mage,Cecil B. Heimerdinger,1
-Mysterious Mage,Chross,1
-Mysterious Mage,Claggor,1
-Mysterious Mage,Deckard,1
-Mysterious Mage,Ekko,1
-Mysterious Mage,Elora,1
-Mysterious Mage,Eve,1
-Mysterious Mage,Finn,1
-Mysterious Mage,Gert,1
-Mysterious Mage,Grayson,1
-Mysterious Mage,Harold,1
-Mysterious Mage,Huck,1
-Mysterious Mage,Irius Bolbok,1
-Mysterious Mage,Isha,1
-Mysterious Mage,Janna,1
-Mysterious Mage,Jayce Talis,1
-Mysterious Mage,Jinx,1
-Mysterious Mage,Jules,1
-Mysterious Mage,Kino Medarda,1
-Mysterious Mage,Lest,1
-Mysterious Mage,Lock,1
-Mysterious Mage,Loris,1
-Mysterious Mage,Madam Margot,1
-Mysterious Mage,Maddie Nolen,1
-Mysterious Mage,Marcus,1
-Mysterious Mage,Mel Medarda,1
-Mysterious Mage,Mylo,1
-Mysterious Mage,Orianna Reveck,1
-Mysterious Mage,Ran,1
-Mysterious Mage,Ren,1
-Mysterious Mage,Renni,2
-Mysterious Mage,Renni's Son,1
-Mysterious Mage,Rictus,1
-Mysterious Mage,Rio,1
-Mysterious Mage,Salo,1
-Mysterious Mage,Scar,1
-Mysterious Mage,Sevika,1
-Mysterious Mage,Shoola,1
-Mysterious Mage,Silco,1
-Mysterious Mage,Singed,1
-Mysterious Mage,Sky Young,1
-Mysterious Mage,Smeech,1
-Mysterious Mage,Steb,1
-Mysterious Mage,Swain,1
-Mysterious Mage,The Hexcore,1
-Mysterious Mage,Thieram,1
-Mysterious Mage,Tobias Kiramman,1
-Mysterious Mage,Torman Hoskel,1
-Mysterious Mage,Vander,1
-Mysterious Mage,Vern,1
-Mysterious Mage,Vi,1
-Mysterious Mage,Viktor,11
-Mysterious Mage,Warwick,1
-Mysterious Mage,Ximena Talis,1
+Nero Eso,Chross,2
 Orianna Reveck,Amara,1
 Orianna Reveck,Ambessa Medarda,1
 Orianna Reveck,Babette,1
 Orianna Reveck,Benzo,1
 Orianna Reveck,Caitlyn Kiramman,1
-Orianna Reveck,Captured Girl,1
 Orianna Reveck,Cassandra Kiramman,1
-Orianna Reveck,Cat,1
 Orianna Reveck,Cecil B. Heimerdinger,1
 Orianna Reveck,Chross,1
 Orianna Reveck,Claggor,1
@@ -2549,38 +2359,36 @@ Orianna Reveck,Jinx,1
 Orianna Reveck,Jules,1
 Orianna Reveck,Kino Medarda,1
 Orianna Reveck,Lest,1
-Orianna Reveck,Lock,1
 Orianna Reveck,Loris,1
 Orianna Reveck,Madam Margot,1
 Orianna Reveck,Maddie Nolen,1
 Orianna Reveck,Marcus,1
 Orianna Reveck,Mel Medarda,1
 Orianna Reveck,Mylo,1
-Orianna Reveck,Mysterious Mage,1
 Orianna Reveck,Ran,1
 Orianna Reveck,Ren,1
 Orianna Reveck,Renni,2
 Orianna Reveck,Renni's Son,1
 Orianna Reveck,Rictus,1
-Orianna Reveck,Rio,1
+Orianna Reveck,Rio,2
 Orianna Reveck,Salo,1
 Orianna Reveck,Scar,1
 Orianna Reveck,Sevika,1
 Orianna Reveck,Shoola,1
 Orianna Reveck,Silco,1
-Orianna Reveck,Singed,6
+Orianna Reveck,Singed,4
 Orianna Reveck,Sky Young,1
 Orianna Reveck,Smeech,1
+Orianna Reveck,Species,1
 Orianna Reveck,Steb,1
 Orianna Reveck,Swain,1
 Orianna Reveck,Thieram,1
 Orianna Reveck,Tobias Kiramman,1
 Orianna Reveck,Torman Hoskel,1
-Orianna Reveck,Vander,1
+Orianna Reveck,Vander,2
 Orianna Reveck,Vern,1
 Orianna Reveck,Vi,1
 Orianna Reveck,Viktor,1
-Orianna Reveck,Warwick,1
 Orianna Reveck,Ximena Talis,1
 Piltover Police Department,Caitlyn Kiramman,2
 Piltover Police Department,Grayson,3
@@ -2593,18 +2401,17 @@ Piltover Police Department,Vi,2
 Jinx/Alternate Universe,Amara,1
 Jinx/Alternate Universe,Ambessa Medarda,1
 Jinx/Alternate Universe,Babette,1
-Jinx/Alternate Universe,Benzo,1
+Jinx/Alternate Universe,Benzo,2
 Jinx/Alternate Universe,Caitlyn Kiramman,1
-Jinx/Alternate Universe,Captured Girl,1
 Jinx/Alternate Universe,Cassandra Kiramman,1
-Jinx/Alternate Universe,Cat,1
 Jinx/Alternate Universe,Cecil B. Heimerdinger,1
 Jinx/Alternate Universe,Chross,1
 Jinx/Alternate Universe,Claggor,4
 Jinx/Alternate Universe,Deckard,1
-Jinx/Alternate Universe,Ekko,8
+Jinx/Alternate Universe,Ekko,9
 Jinx/Alternate Universe,Elora,1
 Jinx/Alternate Universe,Eve,1
+Jinx/Alternate Universe,Felicia,2
 Jinx/Alternate Universe,Finn,1
 Jinx/Alternate Universe,Gert,2
 Jinx/Alternate Universe,Grayson,1
@@ -2614,18 +2421,16 @@ Jinx/Alternate Universe,Irius Bolbok,1
 Jinx/Alternate Universe,Isha,1
 Jinx/Alternate Universe,Janna,1
 Jinx/Alternate Universe,Jayce Talis,1
-Jinx/Alternate Universe,Jinx,5
+Jinx/Alternate Universe,Jinx,6
 Jinx/Alternate Universe,Jules,1
 Jinx/Alternate Universe,Kino Medarda,1
 Jinx/Alternate Universe,Lest,1
-Jinx/Alternate Universe,Lock,1
 Jinx/Alternate Universe,Loris,1
 Jinx/Alternate Universe,Madam Margot,1
 Jinx/Alternate Universe,Maddie Nolen,1
 Jinx/Alternate Universe,Marcus,1
 Jinx/Alternate Universe,Mel Medarda,1
 Jinx/Alternate Universe,Mylo,5
-Jinx/Alternate Universe,Mysterious Mage,1
 Jinx/Alternate Universe,Orianna Reveck,1
 Jinx/Alternate Universe,Ran,1
 Jinx/Alternate Universe,Ren,1
@@ -2641,6 +2446,7 @@ Jinx/Alternate Universe,Silco,1
 Jinx/Alternate Universe,Singed,1
 Jinx/Alternate Universe,Sky Young,1
 Jinx/Alternate Universe,Smeech,1
+Jinx/Alternate Universe,Species,1
 Jinx/Alternate Universe,Steb,1
 Jinx/Alternate Universe,Swain,1
 Jinx/Alternate Universe,Thieram,1
@@ -2648,18 +2454,15 @@ Jinx/Alternate Universe,Tobias Kiramman,1
 Jinx/Alternate Universe,Torman Hoskel,1
 Jinx/Alternate Universe,Vander,4
 Jinx/Alternate Universe,Vern,1
-Jinx/Alternate Universe,Vi,13
+Jinx/Alternate Universe,Vi,12
 Jinx/Alternate Universe,Viktor,1
-Jinx/Alternate Universe,Warwick,1
 Jinx/Alternate Universe,Ximena Talis,1
 Ran,Amara,1
 Ran,Ambessa Medarda,1
 Ran,Babette,1
 Ran,Benzo,1
 Ran,Caitlyn Kiramman,1
-Ran,Captured Girl,1
 Ran,Cassandra Kiramman,1
-Ran,Cat,1
 Ran,Cecil B. Heimerdinger,1
 Ran,Chross,1
 Ran,Claggor,1
@@ -2680,14 +2483,12 @@ Ran,Jinx,1
 Ran,Jules,1
 Ran,Kino Medarda,1
 Ran,Lest,1
-Ran,Lock,1
 Ran,Loris,1
 Ran,Madam Margot,1
 Ran,Maddie Nolen,1
 Ran,Marcus,1
 Ran,Mel Medarda,1
 Ran,Mylo,1
-Ran,Mysterious Mage,1
 Ran,Orianna Reveck,1
 Ran,Ren,1
 Ran,Renni,2
@@ -2702,6 +2503,7 @@ Ran,Silco,3
 Ran,Singed,1
 Ran,Sky Young,1
 Ran,Smeech,1
+Ran,Species,1
 Ran,Steb,1
 Ran,Swain,1
 Ran,Thieram,1
@@ -2711,16 +2513,13 @@ Ran,Vander,1
 Ran,Vern,1
 Ran,Vi,1
 Ran,Viktor,1
-Ran,Warwick,1
 Ran,Ximena Talis,1
 Ren,Amara,1
 Ren,Ambessa Medarda,1
 Ren,Babette,1
 Ren,Benzo,1
 Ren,Caitlyn Kiramman,1
-Ren,Captured Girl,1
 Ren,Cassandra Kiramman,1
-Ren,Cat,1
 Ren,Cecil B. Heimerdinger,1
 Ren,Chross,1
 Ren,Claggor,1
@@ -2741,14 +2540,12 @@ Ren,Jinx,1
 Ren,Jules,1
 Ren,Kino Medarda,1
 Ren,Lest,1
-Ren,Lock,1
 Ren,Loris,1
 Ren,Madam Margot,1
-Ren,Maddie Nolen,1
-Ren,Marcus,3
+Ren,Maddie Nolen,2
+Ren,Marcus,4
 Ren,Mel Medarda,1
 Ren,Mylo,1
-Ren,Mysterious Mage,1
 Ren,Orianna Reveck,1
 Ren,Ran,1
 Ren,Renni,2
@@ -2759,10 +2556,11 @@ Ren,Salo,1
 Ren,Scar,1
 Ren,Sevika,1
 Ren,Shoola,1
-Ren,Silco,1
+Ren,Silco,3
 Ren,Singed,1
 Ren,Sky Young,1
 Ren,Smeech,1
+Ren,Species,1
 Ren,Steb,1
 Ren,Swain,1
 Ren,Thieram,1
@@ -2772,16 +2570,13 @@ Ren,Vander,1
 Ren,Vern,1
 Ren,Vi,1
 Ren,Viktor,1
-Ren,Warwick,1
 Ren,Ximena Talis,1
 Renni,Amara,1
-Renni,Ambessa Medarda,1
+Renni,Ambessa Medarda,2
 Renni,Babette,1
 Renni,Benzo,1
 Renni,Caitlyn Kiramman,2
-Renni,Captured Girl,1
 Renni,Cassandra Kiramman,1
-Renni,Cat,1
 Renni,Cecil B. Heimerdinger,1
 Renni,Chross,1
 Renni,Claggor,1
@@ -2802,14 +2597,12 @@ Renni,Jinx,3
 Renni,Jules,1
 Renni,Kino Medarda,1
 Renni,Lest,1
-Renni,Lock,1
 Renni,Loris,1
 Renni,Madam Margot,1
 Renni,Maddie Nolen,1
 Renni,Marcus,2
 Renni,Mel Medarda,1
 Renni,Mylo,1
-Renni,Mysterious Mage,1
 Renni,Orianna Reveck,1
 Renni,Ran,1
 Renni,Ren,1
@@ -2834,16 +2627,13 @@ Renni,Vander,1
 Renni,Vern,1
 Renni,Vi,1
 Renni,Viktor,1
-Renni,Warwick,1
 Renni,Ximena Talis,1
 Renni's Son,Amara,1
 Renni's Son,Ambessa Medarda,1
 Renni's Son,Babette,1
 Renni's Son,Benzo,1
 Renni's Son,Caitlyn Kiramman,1
-Renni's Son,Captured Girl,1
 Renni's Son,Cassandra Kiramman,1
-Renni's Son,Cat,1
 Renni's Son,Cecil B. Heimerdinger,1
 Renni's Son,Chross,1
 Renni's Son,Claggor,1
@@ -2859,19 +2649,17 @@ Renni's Son,Huck,1
 Renni's Son,Irius Bolbok,1
 Renni's Son,Isha,1
 Renni's Son,Janna,1
-Renni's Son,Jayce Talis,1
+Renni's Son,Jayce Talis,2
 Renni's Son,Jinx,1
 Renni's Son,Jules,1
 Renni's Son,Kino Medarda,1
 Renni's Son,Lest,1
-Renni's Son,Lock,1
 Renni's Son,Loris,1
 Renni's Son,Madam Margot,1
 Renni's Son,Maddie Nolen,1
 Renni's Son,Marcus,1
 Renni's Son,Mel Medarda,1
 Renni's Son,Mylo,1
-Renni's Son,Mysterious Mage,1
 Renni's Son,Orianna Reveck,1
 Renni's Son,Ran,1
 Renni's Son,Ren,1
@@ -2886,6 +2674,7 @@ Renni's Son,Silco,2
 Renni's Son,Singed,1
 Renni's Son,Sky Young,1
 Renni's Son,Smeech,1
+Renni's Son,Species,1
 Renni's Son,Steb,1
 Renni's Son,Swain,1
 Renni's Son,Thieram,1
@@ -2895,16 +2684,13 @@ Renni's Son,Vander,1
 Renni's Son,Vern,1
 Renni's Son,Vi,1
 Renni's Son,Viktor,1
-Renni's Son,Warwick,1
 Renni's Son,Ximena Talis,1
-Rictus,Amara,1
-Rictus,Ambessa Medarda,1
+Rictus,Amara,3
+Rictus,Ambessa Medarda,3
 Rictus,Babette,1
 Rictus,Benzo,1
-Rictus,Caitlyn Kiramman,1
-Rictus,Captured Girl,1
+Rictus,Caitlyn Kiramman,2
 Rictus,Cassandra Kiramman,1
-Rictus,Cat,1
 Rictus,Cecil B. Heimerdinger,1
 Rictus,Chross,1
 Rictus,Claggor,1
@@ -2913,30 +2699,28 @@ Rictus,Ekko,1
 Rictus,Elora,1
 Rictus,Eve,1
 Rictus,Finn,1
-Rictus,Gert,1
+Rictus,Gert,2
 Rictus,Grayson,1
 Rictus,Harold,1
 Rictus,Huck,1
 Rictus,Irius Bolbok,1
-Rictus,Isha,1
+Rictus,Isha,2
 Rictus,Janna,1
-Rictus,Jayce Talis,1
-Rictus,Jinx,4
+Rictus,Jayce Talis,2
+Rictus,Jinx,5
 Rictus,Jules,1
 Rictus,Kino Medarda,1
 Rictus,Lest,1
-Rictus,Lock,1
 Rictus,Loris,1
 Rictus,Madam Margot,1
 Rictus,Maddie Nolen,1
 Rictus,Marcus,1
 Rictus,Mel Medarda,1
 Rictus,Mylo,1
-Rictus,Mysterious Mage,1
 Rictus,Orianna Reveck,1
 Rictus,Ran,1
 Rictus,Ren,1
-Rictus,Renni,2
+Rictus,Renni,3
 Rictus,Renni's Son,1
 Rictus,Rio,1
 Rictus,Salo,1
@@ -2945,28 +2729,26 @@ Rictus,Sevika,1
 Rictus,Shimmer,1
 Rictus,Shoola,1
 Rictus,Silco,1
-Rictus,Singed,1
+Rictus,Singed,3
 Rictus,Sky Young,1
 Rictus,Smeech,1
+Rictus,Species,1
 Rictus,Steb,1
 Rictus,Swain,1
 Rictus,Thieram,1
 Rictus,Tobias Kiramman,1
 Rictus,Torman Hoskel,1
-Rictus,Vander,1
+Rictus,Vander,5
 Rictus,Vern,1
-Rictus,Vi,1
-Rictus,Viktor,1
-Rictus,Warwick,2
+Rictus,Vi,2
+Rictus,Viktor,3
 Rictus,Ximena Talis,1
 Rio,Amara,1
 Rio,Ambessa Medarda,1
 Rio,Babette,1
 Rio,Benzo,1
 Rio,Caitlyn Kiramman,1
-Rio,Captured Girl,1
 Rio,Cassandra Kiramman,1
-Rio,Cat,1
 Rio,Cecil B. Heimerdinger,1
 Rio,Chross,1
 Rio,Claggor,1
@@ -2987,14 +2769,12 @@ Rio,Jinx,1
 Rio,Jules,1
 Rio,Kino Medarda,1
 Rio,Lest,1
-Rio,Lock,1
 Rio,Loris,1
 Rio,Madam Margot,1
 Rio,Maddie Nolen,1
 Rio,Marcus,1
 Rio,Mel Medarda,1
 Rio,Mylo,1
-Rio,Mysterious Mage,1
 Rio,Orianna Reveck,1
 Rio,Ran,1
 Rio,Ren,1
@@ -3010,6 +2790,7 @@ Rio,Silco,1
 Rio,Singed,14
 Rio,Sky Young,1
 Rio,Smeech,1
+Rio,Species,1
 Rio,Steb,1
 Rio,Swain,1
 Rio,Thieram,1
@@ -3019,16 +2800,13 @@ Rio,Vander,1
 Rio,Vern,1
 Rio,Vi,1
 Rio,Viktor,1
-Rio,Warwick,1
 Rio,Ximena Talis,1
 Salo,Amara,1
 Salo,Ambessa Medarda,1
 Salo,Babette,1
 Salo,Benzo,1
 Salo,Caitlyn Kiramman,1
-Salo,Captured Girl,1
 Salo,Cassandra Kiramman,1
-Salo,Cat,1
 Salo,Cecil B. Heimerdinger,1
 Salo,Chross,1
 Salo,Claggor,1
@@ -3045,18 +2823,16 @@ Salo,Irius Bolbok,1
 Salo,Isha,1
 Salo,Janna,1
 Salo,Jayce Talis,2
-Salo,Jinx,1
+Salo,Jinx,4
 Salo,Jules,1
 Salo,Kino Medarda,1
-Salo,Lest,1
-Salo,Lock,1
+Salo,Lest,4
 Salo,Loris,1
 Salo,Madam Margot,1
 Salo,Maddie Nolen,1
-Salo,Marcus,1
+Salo,Marcus,2
 Salo,Mel Medarda,1
 Salo,Mylo,1
-Salo,Mysterious Mage,1
 Salo,Orianna Reveck,1
 Salo,Ran,1
 Salo,Ren,1
@@ -3066,12 +2842,13 @@ Salo,Rictus,1
 Salo,Rio,1
 Salo,Scar,1
 Salo,Sevika,1
-Salo,Shimmer,1
-Salo,Shoola,1
-Salo,Silco,1
+Salo,Shimmer,3
+Salo,Shoola,2
+Salo,Silco,3
 Salo,Singed,1
 Salo,Sky Young,1
 Salo,Smeech,1
+Salo,Species,1
 Salo,Steb,1
 Salo,Swain,1
 Salo,Thieram,1
@@ -3079,18 +2856,15 @@ Salo,Tobias Kiramman,1
 Salo,Torman Hoskel,2
 Salo,Vander,1
 Salo,Vern,1
-Salo,Vi,1
-Salo,Viktor,2
-Salo,Warwick,1
+Salo,Vi,4
+Salo,Viktor,9
 Salo,Ximena Talis,1
 Scar,Amara,1
 Scar,Ambessa Medarda,1
 Scar,Babette,1
 Scar,Benzo,1
 Scar,Caitlyn Kiramman,1
-Scar,Captured Girl,1
 Scar,Cassandra Kiramman,1
-Scar,Cat,1
 Scar,Cecil B. Heimerdinger,1
 Scar,Chross,1
 Scar,Claggor,1
@@ -3111,14 +2885,12 @@ Scar,Jinx,2
 Scar,Jules,1
 Scar,Kino Medarda,1
 Scar,Lest,1
-Scar,Lock,1
 Scar,Loris,1
 Scar,Madam Margot,1
 Scar,Maddie Nolen,1
 Scar,Marcus,1
 Scar,Mel Medarda,1
 Scar,Mylo,1
-Scar,Mysterious Mage,1
 Scar,Orianna Reveck,1
 Scar,Ran,1
 Scar,Ren,1
@@ -3133,6 +2905,7 @@ Scar,Silco,1
 Scar,Singed,1
 Scar,Sky Young,1
 Scar,Smeech,1
+Scar,Species,1
 Scar,Steb,1
 Scar,Swain,1
 Scar,Thieram,1
@@ -3142,16 +2915,13 @@ Scar,Vander,1
 Scar,Vern,1
 Scar,Vi,1
 Scar,Viktor,1
-Scar,Warwick,1
 Scar,Ximena Talis,1
 Sevika,Amara,1
 Sevika,Ambessa Medarda,1
 Sevika,Babette,1
 Sevika,Benzo,1
-Sevika,Caitlyn Kiramman,1
-Sevika,Captured Girl,1
+Sevika,Caitlyn Kiramman,2
 Sevika,Cassandra Kiramman,1
-Sevika,Cat,1
 Sevika,Cecil B. Heimerdinger,1
 Sevika,Chross,1
 Sevika,Claggor,1
@@ -3159,68 +2929,62 @@ Sevika,Deckard,1
 Sevika,Ekko,1
 Sevika,Elora,1
 Sevika,Eve,1
-Sevika,Finn,1
+Sevika,Finn,9
 Sevika,Gert,1
 Sevika,Grayson,1
 Sevika,Harold,1
 Sevika,Huck,1
 Sevika,Irius Bolbok,1
-Sevika,Isha,1
+Sevika,Isha,6
 Sevika,Janna,1
-Sevika,Jayce Talis,1
-Sevika,Jinx,4
+Sevika,Jayce Talis,2
+Sevika,Jinx,35
 Sevika,Jules,1
 Sevika,Kino Medarda,1
 Sevika,Lest,1
-Sevika,Lock,1
 Sevika,Loris,1
 Sevika,Madam Margot,1
 Sevika,Maddie Nolen,1
-Sevika,Marcus,1
+Sevika,Marcus,2
 Sevika,Mel Medarda,1
 Sevika,Mylo,1
-Sevika,Mysterious Mage,1
 Sevika,Orianna Reveck,1
 Sevika,Ran,1
 Sevika,Ren,1
-Sevika,Renni,2
+Sevika,Renni,6
 Sevika,Renni's Son,1
-Sevika,Rictus,1
+Sevika,Rictus,2
 Sevika,Rio,1
 Sevika,Salo,1
-Sevika,Scar,2
-Sevika,Shimmer,2
+Sevika,Scar,4
+Sevika,Shimmer,4
 Sevika,Shoola,1
-Sevika,Silco,5
+Sevika,Silco,36
 Sevika,Singed,1
 Sevika,Sky Young,1
-Sevika,Smeech,1
+Sevika,Smeech,5
+Sevika,Species,1
 Sevika,Steb,1
 Sevika,Swain,1
-Sevika,Thieram,1
+Sevika,Thieram,2
 Sevika,Tobias Kiramman,1
 Sevika,Torman Hoskel,1
-Sevika,Vander,7
+Sevika,Vander,11
 Sevika,Vern,1
-Sevika,Vi,1
-Sevika,Viktor,1
-Sevika,Warwick,1
+Sevika,Vi,12
+Sevika,Viktor,2
 Sevika,Ximena Talis,1
 Shimmer,Jinx,1
 Shimmer,Rio,2
 Shimmer,Silco,6
 Shimmer,Singed,7
-Shimmer Rat,Cat,1
-Shimmer Rat,Shimmer,4
-Shimmer Rat,Singed,2
+Shimmer,Species,1
 Shoola,Amara,1
 Shoola,Ambessa Medarda,1
 Shoola,Babette,1
 Shoola,Benzo,1
 Shoola,Caitlyn Kiramman,1
-Shoola,Captured Girl,1
 Shoola,Cassandra Kiramman,1
-Shoola,Cat,1
 Shoola,Cecil B. Heimerdinger,1
 Shoola,Chross,1
 Shoola,Claggor,1
@@ -3237,32 +3001,31 @@ Shoola,Irius Bolbok,1
 Shoola,Isha,1
 Shoola,Janna,1
 Shoola,Jayce Talis,2
-Shoola,Jinx,1
+Shoola,Jinx,4
 Shoola,Jules,1
 Shoola,Kino Medarda,1
 Shoola,Lest,1
-Shoola,Lock,1
 Shoola,Loris,1
 Shoola,Madam Margot,1
 Shoola,Maddie Nolen,1
-Shoola,Marcus,2
+Shoola,Marcus,3
 Shoola,Mel Medarda,1
 Shoola,Mylo,1
-Shoola,Mysterious Mage,1
 Shoola,Orianna Reveck,1
 Shoola,Ran,1
 Shoola,Ren,1
-Shoola,Renni,2
+Shoola,Renni,3
 Shoola,Renni's Son,1
 Shoola,Rictus,1
 Shoola,Rio,1
-Shoola,Salo,1
+Shoola,Salo,2
 Shoola,Scar,1
-Shoola,Sevika,1
-Shoola,Silco,1
+Shoola,Sevika,3
+Shoola,Silco,2
 Shoola,Singed,1
 Shoola,Sky Young,1
 Shoola,Smeech,1
+Shoola,Species,1
 Shoola,Steb,1
 Shoola,Swain,1
 Shoola,Thieram,1
@@ -3270,25 +3033,23 @@ Shoola,Tobias Kiramman,1
 Shoola,Torman Hoskel,1
 Shoola,Vander,1
 Shoola,Vern,1
-Shoola,Vi,1
-Shoola,Viktor,1
-Shoola,Warwick,1
+Shoola,Vi,2
+Shoola,Viktor,3
 Shoola,Ximena Talis,1
 Silco,Amara,1
 Silco,Ambessa Medarda,1
 Silco,Babette,1
 Silco,Benzo,2
 Silco,Caitlyn Kiramman,1
-Silco,Captured Girl,1
 Silco,Cassandra Kiramman,1
-Silco,Cat,1
 Silco,Cecil B. Heimerdinger,1
 Silco,Chross,1
 Silco,Claggor,1
 Silco,Deckard,4
-Silco,Ekko,2
+Silco,Ekko,1
 Silco,Elora,1
 Silco,Eve,1
+Silco,Felicia,1
 Silco,Finn,1
 Silco,Gert,1
 Silco,Grayson,1
@@ -3302,14 +3063,12 @@ Silco,Jinx,8
 Silco,Jules,1
 Silco,Kino Medarda,1
 Silco,Lest,1
-Silco,Lock,1
 Silco,Loris,1
 Silco,Madam Margot,1
 Silco,Maddie Nolen,1
-Silco,Marcus,3
+Silco,Marcus,4
 Silco,Mel Medarda,1
 Silco,Mylo,1
-Silco,Mysterious Mage,1
 Silco,Orianna Reveck,1
 Silco,Ran,1
 Silco,Ren,1
@@ -3318,13 +3077,14 @@ Silco,Renni's Son,1
 Silco,Rictus,1
 Silco,Rio,1
 Silco,Salo,1
-Silco,Scar,1
+Silco,Scar,3
 Silco,Sevika,3
 Silco,Shimmer,4
 Silco,Shoola,1
-Silco,Singed,3
+Silco,Singed,2
 Silco,Sky Young,1
 Silco,Smeech,1
+Silco,Species,1
 Silco,Steb,1
 Silco,Swain,1
 Silco,Thieram,1
@@ -3334,21 +3094,18 @@ Silco,Vander,18
 Silco,Vern,1
 Silco,Vi,2
 Silco,Viktor,1
-Silco,Warwick,1
 Silco,Ximena Talis,1
 Silco/Alternate Universe,Amara,1
 Silco/Alternate Universe,Ambessa Medarda,1
 Silco/Alternate Universe,Babette,1
 Silco/Alternate Universe,Benzo,1
 Silco/Alternate Universe,Caitlyn Kiramman,1
-Silco/Alternate Universe,Captured Girl,1
 Silco/Alternate Universe,Cassandra Kiramman,1
-Silco/Alternate Universe,Cat,1
 Silco/Alternate Universe,Cecil B. Heimerdinger,1
 Silco/Alternate Universe,Chross,1
 Silco/Alternate Universe,Claggor,1
 Silco/Alternate Universe,Deckard,1
-Silco/Alternate Universe,Ekko,1
+Silco/Alternate Universe,Ekko,4
 Silco/Alternate Universe,Elora,1
 Silco/Alternate Universe,Eve,1
 Silco/Alternate Universe,Finn,1
@@ -3364,14 +3121,12 @@ Silco/Alternate Universe,Jinx,1
 Silco/Alternate Universe,Jules,1
 Silco/Alternate Universe,Kino Medarda,1
 Silco/Alternate Universe,Lest,1
-Silco/Alternate Universe,Lock,1
 Silco/Alternate Universe,Loris,1
 Silco/Alternate Universe,Madam Margot,1
 Silco/Alternate Universe,Maddie Nolen,1
 Silco/Alternate Universe,Marcus,1
 Silco/Alternate Universe,Mel Medarda,1
 Silco/Alternate Universe,Mylo,1
-Silco/Alternate Universe,Mysterious Mage,1
 Silco/Alternate Universe,Orianna Reveck,1
 Silco/Alternate Universe,Ran,1
 Silco/Alternate Universe,Ren,1
@@ -3382,30 +3137,29 @@ Silco/Alternate Universe,Rio,1
 Silco/Alternate Universe,Salo,1
 Silco/Alternate Universe,Scar,1
 Silco/Alternate Universe,Sevika,1
+Silco/Alternate Universe,Shimmer,1
 Silco/Alternate Universe,Shoola,1
-Silco/Alternate Universe,Silco,5
+Silco/Alternate Universe,Silco,12
 Silco/Alternate Universe,Singed,1
 Silco/Alternate Universe,Sky Young,1
 Silco/Alternate Universe,Smeech,1
+Silco/Alternate Universe,Species,1
 Silco/Alternate Universe,Steb,1
 Silco/Alternate Universe,Swain,1
 Silco/Alternate Universe,Thieram,1
 Silco/Alternate Universe,Tobias Kiramman,1
 Silco/Alternate Universe,Torman Hoskel,1
-Silco/Alternate Universe,Vander,2
+Silco/Alternate Universe,Vander,6
 Silco/Alternate Universe,Vern,1
-Silco/Alternate Universe,Vi,1
+Silco/Alternate Universe,Vi,2
 Silco/Alternate Universe,Viktor,1
-Silco/Alternate Universe,Warwick,1
 Silco/Alternate Universe,Ximena Talis,1
 Singed,Amara,1
-Singed,Ambessa Medarda,2
+Singed,Ambessa Medarda,3
 Singed,Babette,1
 Singed,Benzo,1
 Singed,Caitlyn Kiramman,1
-Singed,Captured Girl,1
 Singed,Cassandra Kiramman,1
-Singed,Cat,1
 Singed,Cecil B. Heimerdinger,1
 Singed,Chross,1
 Singed,Claggor,1
@@ -3426,14 +3180,12 @@ Singed,Jinx,1
 Singed,Jules,1
 Singed,Kino Medarda,1
 Singed,Lest,1
-Singed,Lock,1
 Singed,Loris,1
 Singed,Madam Margot,1
 Singed,Maddie Nolen,1
 Singed,Marcus,1
 Singed,Mel Medarda,1
 Singed,Mylo,1
-Singed,Mysterious Mage,1
 Singed,Orianna Reveck,2
 Singed,Ran,1
 Singed,Ren,1
@@ -3449,6 +3201,7 @@ Singed,Shoola,1
 Singed,Silco,6
 Singed,Sky Young,1
 Singed,Smeech,1
+Singed,Species,1
 Singed,Steb,1
 Singed,Swain,1
 Singed,Thieram,1
@@ -3457,17 +3210,14 @@ Singed,Torman Hoskel,1
 Singed,Vander,1
 Singed,Vern,1
 Singed,Vi,1
-Singed,Viktor,2
-Singed,Warwick,1
+Singed,Viktor,3
 Singed,Ximena Talis,1
 Sky Young,Amara,1
 Sky Young,Ambessa Medarda,1
 Sky Young,Babette,1
 Sky Young,Benzo,1
 Sky Young,Caitlyn Kiramman,1
-Sky Young,Captured Girl,1
 Sky Young,Cassandra Kiramman,1
-Sky Young,Cat,1
 Sky Young,Cecil B. Heimerdinger,1
 Sky Young,Chross,1
 Sky Young,Claggor,1
@@ -3488,14 +3238,12 @@ Sky Young,Jinx,1
 Sky Young,Jules,1
 Sky Young,Kino Medarda,1
 Sky Young,Lest,1
-Sky Young,Lock,1
 Sky Young,Loris,1
 Sky Young,Madam Margot,1
 Sky Young,Maddie Nolen,1
 Sky Young,Marcus,1
 Sky Young,Mel Medarda,1
 Sky Young,Mylo,1
-Sky Young,Mysterious Mage,1
 Sky Young,Orianna Reveck,1
 Sky Young,Ran,1
 Sky Young,Ren,1
@@ -3506,30 +3254,29 @@ Sky Young,Rio,1
 Sky Young,Salo,1
 Sky Young,Scar,1
 Sky Young,Sevika,1
+Sky Young,Shimmer,1
 Sky Young,Shoola,1
 Sky Young,Silco,1
 Sky Young,Singed,1
 Sky Young,Smeech,1
+Sky Young,Species,1
 Sky Young,Steb,1
 Sky Young,Swain,1
-Sky Young,The Hexcore,8
+Sky Young,The Hexcore,9
 Sky Young,Thieram,1
 Sky Young,Tobias Kiramman,1
 Sky Young,Torman Hoskel,1
 Sky Young,Vander,1
 Sky Young,Vern,1
 Sky Young,Vi,1
-Sky Young,Viktor,23
-Sky Young,Warwick,1
+Sky Young,Viktor,29
 Sky Young,Ximena Talis,1
 Smeech,Amara,1
 Smeech,Ambessa Medarda,1
 Smeech,Babette,1
 Smeech,Benzo,1
 Smeech,Caitlyn Kiramman,2
-Smeech,Captured Girl,1
 Smeech,Cassandra Kiramman,1
-Smeech,Cat,1
 Smeech,Cecil B. Heimerdinger,1
 Smeech,Chross,1
 Smeech,Claggor,1
@@ -3546,18 +3293,16 @@ Smeech,Irius Bolbok,1
 Smeech,Isha,2
 Smeech,Janna,1
 Smeech,Jayce Talis,1
-Smeech,Jinx,5
+Smeech,Jinx,4
 Smeech,Jules,1
 Smeech,Kino Medarda,1
 Smeech,Lest,1
-Smeech,Lock,1
 Smeech,Loris,1
 Smeech,Madam Margot,1
 Smeech,Maddie Nolen,1
 Smeech,Marcus,1
 Smeech,Mel Medarda,1
 Smeech,Mylo,1
-Smeech,Mysterious Mage,1
 Smeech,Orianna Reveck,1
 Smeech,Ran,1
 Smeech,Ren,1
@@ -3572,6 +3317,7 @@ Smeech,Shoola,1
 Smeech,Silco,6
 Smeech,Singed,1
 Smeech,Sky Young,1
+Smeech,Species,1
 Smeech,Steb,1
 Smeech,Swain,1
 Smeech,Thieram,1
@@ -3581,16 +3327,68 @@ Smeech,Vander,1
 Smeech,Vern,1
 Smeech,Vi,1
 Smeech,Viktor,1
-Smeech,Warwick,1
 Smeech,Ximena Talis,1
+Species,Amara,2
+Species,Ambessa Medarda,1
+Species,Babette,1
+Species,Benzo,1
+Species,Caitlyn Kiramman,1
+Species,Cassandra Kiramman,1
+Species,Cecil B. Heimerdinger,1
+Species,Chross,1
+Species,Claggor,1
+Species,Deckard,1
+Species,Ekko,1
+Species,Elora,1
+Species,Eve,1
+Species,Felicia,1
+Species,Finn,1
+Species,Gert,1
+Species,Grayson,1
+Species,Harold,1
+Species,Huck,1
+Species,Illusionary Sorceress,1
+Species,Isha,1
+Species,Jayce Talis,1
+Species,Jericho,1
+Species,Jinx,1
+Species,Jules,1
+Species,Kino Medarda,1
+Species,Lest,1
+Species,Loris,1
+Species,Madam Margot,1
+Species,Maddie Nolen,1
+Species,Marcus,1
+Species,Mel Medarda,2
+Species,Mylo,1
+Species,Orianna Reveck,1
+Species,Ran,1
+Species,Ren,1
+Species,Renni,2
+Species,Rictus,2
+Species,Salo,1
+Species,Scar,2
+Species,Sevika,1
+Species,Shoola,1
+Species,Silco,1
+Species,Singed,1
+Species,Sky Young,1
+Species,Smeech,1
+Species,Steb,1
+Species,Thieram,1
+Species,Tobias Kiramman,1
+Species,Torman Hoskel,1
+Species,Vander,1
+Species,Vern,1
+Species,Vi,1
+Species,Viktor,1
+Species,Ximena Talis,1
 Steb,Amara,1
 Steb,Ambessa Medarda,1
 Steb,Babette,1
 Steb,Benzo,1
 Steb,Caitlyn Kiramman,1
-Steb,Captured Girl,1
 Steb,Cassandra Kiramman,1
-Steb,Cat,1
 Steb,Cecil B. Heimerdinger,1
 Steb,Chross,1
 Steb,Claggor,1
@@ -3599,7 +3397,7 @@ Steb,Ekko,1
 Steb,Elora,1
 Steb,Eve,1
 Steb,Finn,1
-Steb,Gert,1
+Steb,Gert,2
 Steb,Grayson,1
 Steb,Harold,1
 Steb,Huck,1
@@ -3607,26 +3405,24 @@ Steb,Irius Bolbok,1
 Steb,Isha,1
 Steb,Janna,1
 Steb,Jayce Talis,1
-Steb,Jinx,1
+Steb,Jinx,2
 Steb,Jules,1
 Steb,Kino Medarda,1
 Steb,Lest,1
-Steb,Lock,1
 Steb,Loris,1
 Steb,Madam Margot,1
 Steb,Maddie Nolen,1
 Steb,Marcus,1
 Steb,Mel Medarda,1
 Steb,Mylo,1
-Steb,Mysterious Mage,1
 Steb,Orianna Reveck,1
 Steb,Ran,1
 Steb,Ren,1
-Steb,Renni,2
+Steb,Renni,3
 Steb,Renni's Son,1
 Steb,Rictus,1
 Steb,Rio,1
-Steb,Salo,1
+Steb,Salo,2
 Steb,Scar,1
 Steb,Sevika,1
 Steb,Shoola,1
@@ -3634,6 +3430,7 @@ Steb,Silco,1
 Steb,Singed,1
 Steb,Sky Young,1
 Steb,Smeech,1
+Steb,Species,1
 Steb,Swain,1
 Steb,Thieram,1
 Steb,Tobias Kiramman,1
@@ -3641,17 +3438,14 @@ Steb,Torman Hoskel,1
 Steb,Vander,1
 Steb,Vern,1
 Steb,Vi,1
-Steb,Viktor,1
-Steb,Warwick,1
+Steb,Viktor,4
 Steb,Ximena Talis,1
 Swain,Amara,1
 Swain,Ambessa Medarda,1
 Swain,Babette,1
 Swain,Benzo,1
 Swain,Caitlyn Kiramman,1
-Swain,Captured Girl,1
 Swain,Cassandra Kiramman,1
-Swain,Cat,1
 Swain,Cecil B. Heimerdinger,1
 Swain,Chross,1
 Swain,Claggor,1
@@ -3672,14 +3466,12 @@ Swain,Jinx,1
 Swain,Jules,1
 Swain,Kino Medarda,1
 Swain,Lest,1
-Swain,Lock,1
 Swain,Loris,1
 Swain,Madam Margot,1
 Swain,Maddie Nolen,1
 Swain,Marcus,1
 Swain,Mel Medarda,1
 Swain,Mylo,1
-Swain,Mysterious Mage,1
 Swain,Orianna Reveck,1
 Swain,Ran,1
 Swain,Ren,1
@@ -3695,6 +3487,7 @@ Swain,Silco,1
 Swain,Singed,1
 Swain,Sky Young,1
 Swain,Smeech,1
+Swain,Species,1
 Swain,Steb,1
 Swain,Thieram,1
 Swain,Tobias Kiramman,1
@@ -3703,18 +3496,16 @@ Swain,Vander,1
 Swain,Vern,1
 Swain,Vi,1
 Swain,Viktor,1
-Swain,Warwick,1
 Swain,Ximena Talis,1
 The Hexcore,Jayce Talis,1
+The Hexcore,Species,1
 The Hexcore,Viktor,5
 Thieram,Amara,1
 Thieram,Ambessa Medarda,1
 Thieram,Babette,1
 Thieram,Benzo,1
 Thieram,Caitlyn Kiramman,1
-Thieram,Captured Girl,1
 Thieram,Cassandra Kiramman,1
-Thieram,Cat,1
 Thieram,Cecil B. Heimerdinger,1
 Thieram,Chross,1
 Thieram,Claggor,1
@@ -3731,18 +3522,16 @@ Thieram,Irius Bolbok,1
 Thieram,Isha,1
 Thieram,Janna,1
 Thieram,Jayce Talis,1
-Thieram,Jinx,1
+Thieram,Jinx,5
 Thieram,Jules,1
 Thieram,Kino Medarda,1
 Thieram,Lest,1
-Thieram,Lock,1
 Thieram,Loris,1
 Thieram,Madam Margot,1
 Thieram,Maddie Nolen,1
 Thieram,Marcus,1
 Thieram,Mel Medarda,1
 Thieram,Mylo,1
-Thieram,Mysterious Mage,1
 Thieram,Orianna Reveck,1
 Thieram,Ran,1
 Thieram,Ren,1
@@ -3752,12 +3541,13 @@ Thieram,Rictus,1
 Thieram,Rio,1
 Thieram,Salo,1
 Thieram,Scar,1
-Thieram,Sevika,1
+Thieram,Sevika,2
 Thieram,Shoola,1
 Thieram,Silco,2
 Thieram,Singed,1
 Thieram,Sky Young,1
 Thieram,Smeech,1
+Thieram,Species,1
 Thieram,Steb,1
 Thieram,Swain,1
 Thieram,Tobias Kiramman,1
@@ -3766,16 +3556,13 @@ Thieram,Vander,1
 Thieram,Vern,1
 Thieram,Vi,1
 Thieram,Viktor,1
-Thieram,Warwick,1
 Thieram,Ximena Talis,1
 Tobias Kiramman,Amara,1
 Tobias Kiramman,Ambessa Medarda,1
 Tobias Kiramman,Babette,1
 Tobias Kiramman,Benzo,1
 Tobias Kiramman,Caitlyn Kiramman,2
-Tobias Kiramman,Captured Girl,1
 Tobias Kiramman,Cassandra Kiramman,3
-Tobias Kiramman,Cat,1
 Tobias Kiramman,Cecil B. Heimerdinger,1
 Tobias Kiramman,Chross,1
 Tobias Kiramman,Claggor,1
@@ -3796,14 +3583,12 @@ Tobias Kiramman,Jinx,1
 Tobias Kiramman,Jules,1
 Tobias Kiramman,Kino Medarda,1
 Tobias Kiramman,Lest,1
-Tobias Kiramman,Lock,1
 Tobias Kiramman,Loris,1
 Tobias Kiramman,Madam Margot,1
 Tobias Kiramman,Maddie Nolen,1
 Tobias Kiramman,Marcus,1
 Tobias Kiramman,Mel Medarda,1
 Tobias Kiramman,Mylo,1
-Tobias Kiramman,Mysterious Mage,1
 Tobias Kiramman,Orianna Reveck,1
 Tobias Kiramman,Ran,1
 Tobias Kiramman,Ren,1
@@ -3819,6 +3604,7 @@ Tobias Kiramman,Silco,1
 Tobias Kiramman,Singed,1
 Tobias Kiramman,Sky Young,1
 Tobias Kiramman,Smeech,1
+Tobias Kiramman,Species,1
 Tobias Kiramman,Steb,1
 Tobias Kiramman,Swain,1
 Tobias Kiramman,Thieram,1
@@ -3827,16 +3613,13 @@ Tobias Kiramman,Vander,1
 Tobias Kiramman,Vern,1
 Tobias Kiramman,Vi,1
 Tobias Kiramman,Viktor,1
-Tobias Kiramman,Warwick,1
 Tobias Kiramman,Ximena Talis,1
 Torman Hoskel,Amara,1
 Torman Hoskel,Ambessa Medarda,1
 Torman Hoskel,Babette,1
 Torman Hoskel,Benzo,1
 Torman Hoskel,Caitlyn Kiramman,1
-Torman Hoskel,Captured Girl,1
 Torman Hoskel,Cassandra Kiramman,1
-Torman Hoskel,Cat,1
 Torman Hoskel,Cecil B. Heimerdinger,2
 Torman Hoskel,Chross,1
 Torman Hoskel,Claggor,1
@@ -3853,18 +3636,16 @@ Torman Hoskel,Irius Bolbok,1
 Torman Hoskel,Isha,1
 Torman Hoskel,Janna,1
 Torman Hoskel,Jayce Talis,2
-Torman Hoskel,Jinx,3
+Torman Hoskel,Jinx,6
 Torman Hoskel,Jules,1
 Torman Hoskel,Kino Medarda,1
 Torman Hoskel,Lest,1
-Torman Hoskel,Lock,1
 Torman Hoskel,Loris,1
 Torman Hoskel,Madam Margot,1
 Torman Hoskel,Maddie Nolen,1
 Torman Hoskel,Marcus,1
 Torman Hoskel,Mel Medarda,2
 Torman Hoskel,Mylo,1
-Torman Hoskel,Mysterious Mage,1
 Torman Hoskel,Orianna Reveck,1
 Torman Hoskel,Ran,1
 Torman Hoskel,Ren,1
@@ -3872,32 +3653,30 @@ Torman Hoskel,Renni,2
 Torman Hoskel,Renni's Son,1
 Torman Hoskel,Rictus,1
 Torman Hoskel,Rio,1
-Torman Hoskel,Salo,2
+Torman Hoskel,Salo,4
 Torman Hoskel,Scar,1
 Torman Hoskel,Sevika,1
-Torman Hoskel,Shoola,1
-Torman Hoskel,Silco,1
+Torman Hoskel,Shoola,2
+Torman Hoskel,Silco,2
 Torman Hoskel,Singed,1
 Torman Hoskel,Sky Young,1
 Torman Hoskel,Smeech,1
+Torman Hoskel,Species,1
 Torman Hoskel,Steb,1
 Torman Hoskel,Swain,1
 Torman Hoskel,Thieram,1
 Torman Hoskel,Tobias Kiramman,1
 Torman Hoskel,Vander,1
 Torman Hoskel,Vern,1
-Torman Hoskel,Vi,1
-Torman Hoskel,Viktor,1
-Torman Hoskel,Warwick,1
+Torman Hoskel,Vi,3
+Torman Hoskel,Viktor,2
 Torman Hoskel,Ximena Talis,1
 Vander,Amara,1
-Vander,Ambessa Medarda,1
+Vander,Ambessa Medarda,2
 Vander,Babette,1
 Vander,Benzo,4
 Vander,Caitlyn Kiramman,1
-Vander,Captured Girl,1
 Vander,Cassandra Kiramman,1
-Vander,Cat,1
 Vander,Cecil B. Heimerdinger,1
 Vander,Chross,1
 Vander,Claggor,5
@@ -3905,6 +3684,7 @@ Vander,Deckard,1
 Vander,Ekko,1
 Vander,Elora,1
 Vander,Eve,1
+Vander,Felicia,3
 Vander,Finn,1
 Vander,Gert,1
 Vander,Grayson,7
@@ -3914,18 +3694,16 @@ Vander,Irius Bolbok,1
 Vander,Isha,4
 Vander,Janna,1
 Vander,Jayce Talis,1
-Vander,Jinx,8
+Vander,Jinx,9
 Vander,Jules,1
 Vander,Kino Medarda,1
 Vander,Lest,1
-Vander,Lock,1
 Vander,Loris,3
 Vander,Madam Margot,1
 Vander,Maddie Nolen,1
 Vander,Marcus,1
 Vander,Mel Medarda,1
 Vander,Mylo,5
-Vander,Mysterious Mage,1
 Vander,Orianna Reveck,1
 Vander,Ran,1
 Vander,Ren,1
@@ -3939,89 +3717,25 @@ Vander,Sevika,5
 Vander,Shimmer,7
 Vander,Shoola,1
 Vander,Silco,15
-Vander,Singed,5
+Vander,Singed,6
 Vander,Sky Young,1
 Vander,Smeech,1
+Vander,Species,1
 Vander,Steb,1
 Vander,Swain,1
 Vander,Thieram,1
 Vander,Tobias Kiramman,1
 Vander,Torman Hoskel,1
 Vander,Vern,1
-Vander,Vi,20
-Vander,Viktor,1
-Vander,Warwick,19
+Vander,Vi,21
+Vander,Viktor,2
 Vander,Ximena Talis,1
-Vander/Alternate Universe,Amara,1
-Vander/Alternate Universe,Ambessa Medarda,1
-Vander/Alternate Universe,Babette,1
-Vander/Alternate Universe,Benzo,1
-Vander/Alternate Universe,Caitlyn Kiramman,1
-Vander/Alternate Universe,Captured Girl,1
-Vander/Alternate Universe,Cassandra Kiramman,1
-Vander/Alternate Universe,Cat,1
-Vander/Alternate Universe,Cecil B. Heimerdinger,1
-Vander/Alternate Universe,Chross,1
-Vander/Alternate Universe,Claggor,2
-Vander/Alternate Universe,Deckard,1
-Vander/Alternate Universe,Ekko,1
-Vander/Alternate Universe,Elora,1
-Vander/Alternate Universe,Eve,1
-Vander/Alternate Universe,Finn,1
-Vander/Alternate Universe,Gert,1
-Vander/Alternate Universe,Grayson,1
-Vander/Alternate Universe,Harold,1
-Vander/Alternate Universe,Huck,1
-Vander/Alternate Universe,Irius Bolbok,1
-Vander/Alternate Universe,Isha,1
-Vander/Alternate Universe,Janna,1
-Vander/Alternate Universe,Jayce Talis,1
-Vander/Alternate Universe,Jinx,1
-Vander/Alternate Universe,Jules,1
-Vander/Alternate Universe,Kino Medarda,1
-Vander/Alternate Universe,Lest,1
-Vander/Alternate Universe,Lock,1
-Vander/Alternate Universe,Loris,1
-Vander/Alternate Universe,Madam Margot,1
-Vander/Alternate Universe,Maddie Nolen,1
-Vander/Alternate Universe,Marcus,1
-Vander/Alternate Universe,Mel Medarda,1
-Vander/Alternate Universe,Mylo,2
-Vander/Alternate Universe,Mysterious Mage,1
-Vander/Alternate Universe,Orianna Reveck,1
-Vander/Alternate Universe,Ran,1
-Vander/Alternate Universe,Ren,1
-Vander/Alternate Universe,Renni,2
-Vander/Alternate Universe,Renni's Son,1
-Vander/Alternate Universe,Rictus,1
-Vander/Alternate Universe,Rio,1
-Vander/Alternate Universe,Salo,1
-Vander/Alternate Universe,Scar,1
-Vander/Alternate Universe,Sevika,1
-Vander/Alternate Universe,Shoola,1
-Vander/Alternate Universe,Silco,2
-Vander/Alternate Universe,Singed,1
-Vander/Alternate Universe,Sky Young,1
-Vander/Alternate Universe,Smeech,1
-Vander/Alternate Universe,Steb,1
-Vander/Alternate Universe,Swain,1
-Vander/Alternate Universe,Thieram,1
-Vander/Alternate Universe,Tobias Kiramman,1
-Vander/Alternate Universe,Torman Hoskel,1
-Vander/Alternate Universe,Vander,5
-Vander/Alternate Universe,Vern,1
-Vander/Alternate Universe,Vi,2
-Vander/Alternate Universe,Viktor,1
-Vander/Alternate Universe,Warwick,1
-Vander/Alternate Universe,Ximena Talis,1
 Vern,Amara,1
 Vern,Ambessa Medarda,1
 Vern,Babette,1
 Vern,Benzo,1
 Vern,Caitlyn Kiramman,1
-Vern,Captured Girl,1
 Vern,Cassandra Kiramman,1
-Vern,Cat,1
 Vern,Cecil B. Heimerdinger,1
 Vern,Chross,1
 Vern,Claggor,1
@@ -4042,14 +3756,12 @@ Vern,Jinx,1
 Vern,Jules,4
 Vern,Kino Medarda,1
 Vern,Lest,1
-Vern,Lock,1
 Vern,Loris,1
 Vern,Madam Margot,1
 Vern,Maddie Nolen,1
 Vern,Marcus,1
 Vern,Mel Medarda,1
 Vern,Mylo,1
-Vern,Mysterious Mage,1
 Vern,Orianna Reveck,1
 Vern,Ran,1
 Vern,Ren,1
@@ -4065,6 +3777,7 @@ Vern,Silco,1
 Vern,Singed,1
 Vern,Sky Young,1
 Vern,Smeech,1
+Vern,Species,1
 Vern,Steb,1
 Vern,Swain,1
 Vern,Thieram,1
@@ -4073,23 +3786,21 @@ Vern,Torman Hoskel,1
 Vern,Vander,6
 Vern,Vi,2
 Vern,Viktor,1
-Vern,Warwick,1
 Vern,Ximena Talis,1
 Vi,Amara,1
 Vi,Ambessa Medarda,1
 Vi,Babette,1
 Vi,Benzo,1
 Vi,Caitlyn Kiramman,4
-Vi,Captured Girl,1
 Vi,Cassandra Kiramman,1
-Vi,Cat,1
 Vi,Cecil B. Heimerdinger,1
 Vi,Chross,1
 Vi,Claggor,3
-Vi,Deckard,1
+Vi,Deckard,2
 Vi,Ekko,1
 Vi,Elora,1
 Vi,Eve,1
+Vi,Felicia,2
 Vi,Finn,1
 Vi,Gert,1
 Vi,Grayson,1
@@ -4099,18 +3810,16 @@ Vi,Irius Bolbok,1
 Vi,Isha,2
 Vi,Janna,1
 Vi,Jayce Talis,1
-Vi,Jinx,11
+Vi,Jinx,12
 Vi,Jules,1
 Vi,Kino Medarda,1
 Vi,Lest,1
-Vi,Lock,1
 Vi,Loris,1
 Vi,Madam Margot,1
 Vi,Maddie Nolen,1
 Vi,Marcus,1
 Vi,Mel Medarda,1
 Vi,Mylo,5
-Vi,Mysterious Mage,1
 Vi,Orianna Reveck,1
 Vi,Ran,1
 Vi,Ren,1
@@ -4126,6 +3835,7 @@ Vi,Silco,1
 Vi,Singed,1
 Vi,Sky Young,1
 Vi,Smeech,1
+Vi,Species,1
 Vi,Steb,1
 Vi,Swain,1
 Vi,Thieram,1
@@ -4134,78 +3844,13 @@ Vi,Torman Hoskel,1
 Vi,Vander,10
 Vi,Vern,1
 Vi,Viktor,1
-Vi,Warwick,3
 Vi,Ximena Talis,1
-Vi and Powder's Parents,Amara,1
-Vi and Powder's Parents,Ambessa Medarda,1
-Vi and Powder's Parents,Babette,1
-Vi and Powder's Parents,Benzo,1
-Vi and Powder's Parents,Caitlyn Kiramman,1
-Vi and Powder's Parents,Captured Girl,1
-Vi and Powder's Parents,Cassandra Kiramman,1
-Vi and Powder's Parents,Cat,1
-Vi and Powder's Parents,Cecil B. Heimerdinger,1
-Vi and Powder's Parents,Chross,1
-Vi and Powder's Parents,Claggor,1
-Vi and Powder's Parents,Deckard,1
-Vi and Powder's Parents,Ekko,1
-Vi and Powder's Parents,Elora,1
-Vi and Powder's Parents,Eve,1
-Vi and Powder's Parents,Finn,1
-Vi and Powder's Parents,Gert,1
-Vi and Powder's Parents,Grayson,1
-Vi and Powder's Parents,Harold,1
-Vi and Powder's Parents,Huck,1
-Vi and Powder's Parents,Irius Bolbok,1
-Vi and Powder's Parents,Isha,1
-Vi and Powder's Parents,Janna,1
-Vi and Powder's Parents,Jayce Talis,1
-Vi and Powder's Parents,Jinx,1
-Vi and Powder's Parents,Jules,1
-Vi and Powder's Parents,Kino Medarda,1
-Vi and Powder's Parents,Lest,1
-Vi and Powder's Parents,Lock,1
-Vi and Powder's Parents,Loris,1
-Vi and Powder's Parents,Madam Margot,1
-Vi and Powder's Parents,Maddie Nolen,1
-Vi and Powder's Parents,Marcus,1
-Vi and Powder's Parents,Mel Medarda,1
-Vi and Powder's Parents,Mylo,1
-Vi and Powder's Parents,Mysterious Mage,1
-Vi and Powder's Parents,Orianna Reveck,1
-Vi and Powder's Parents,Ran,1
-Vi and Powder's Parents,Ren,1
-Vi and Powder's Parents,Renni,2
-Vi and Powder's Parents,Renni's Son,1
-Vi and Powder's Parents,Rictus,1
-Vi and Powder's Parents,Rio,1
-Vi and Powder's Parents,Salo,1
-Vi and Powder's Parents,Scar,1
-Vi and Powder's Parents,Sevika,1
-Vi and Powder's Parents,Shoola,1
-Vi and Powder's Parents,Silco,3
-Vi and Powder's Parents,Singed,1
-Vi and Powder's Parents,Sky Young,1
-Vi and Powder's Parents,Smeech,1
-Vi and Powder's Parents,Steb,1
-Vi and Powder's Parents,Swain,1
-Vi and Powder's Parents,Thieram,1
-Vi and Powder's Parents,Tobias Kiramman,1
-Vi and Powder's Parents,Torman Hoskel,1
-Vi and Powder's Parents,Vander,4
-Vi and Powder's Parents,Vern,1
-Vi and Powder's Parents,Vi,7
-Vi and Powder's Parents,Viktor,1
-Vi and Powder's Parents,Warwick,1
-Vi and Powder's Parents,Ximena Talis,1
 Vi/Alternate Universe,Amara,1
 Vi/Alternate Universe,Ambessa Medarda,1
 Vi/Alternate Universe,Babette,1
 Vi/Alternate Universe,Benzo,2
 Vi/Alternate Universe,Caitlyn Kiramman,1
-Vi/Alternate Universe,Captured Girl,1
 Vi/Alternate Universe,Cassandra Kiramman,1
-Vi/Alternate Universe,Cat,1
 Vi/Alternate Universe,Cecil B. Heimerdinger,1
 Vi/Alternate Universe,Chross,1
 Vi/Alternate Universe,Claggor,5
@@ -4213,6 +3858,7 @@ Vi/Alternate Universe,Deckard,1
 Vi/Alternate Universe,Ekko,1
 Vi/Alternate Universe,Elora,1
 Vi/Alternate Universe,Eve,1
+Vi/Alternate Universe,Felicia,1
 Vi/Alternate Universe,Finn,1
 Vi/Alternate Universe,Gert,1
 Vi/Alternate Universe,Grayson,1
@@ -4226,14 +3872,12 @@ Vi/Alternate Universe,Jinx,1
 Vi/Alternate Universe,Jules,1
 Vi/Alternate Universe,Kino Medarda,1
 Vi/Alternate Universe,Lest,1
-Vi/Alternate Universe,Lock,1
 Vi/Alternate Universe,Loris,1
 Vi/Alternate Universe,Madam Margot,1
 Vi/Alternate Universe,Maddie Nolen,1
 Vi/Alternate Universe,Marcus,1
 Vi/Alternate Universe,Mel Medarda,1
 Vi/Alternate Universe,Mylo,5
-Vi/Alternate Universe,Mysterious Mage,1
 Vi/Alternate Universe,Orianna Reveck,1
 Vi/Alternate Universe,Ran,1
 Vi/Alternate Universe,Ren,1
@@ -4249,53 +3893,49 @@ Vi/Alternate Universe,Silco,2
 Vi/Alternate Universe,Singed,1
 Vi/Alternate Universe,Sky Young,1
 Vi/Alternate Universe,Smeech,1
+Vi/Alternate Universe,Species,1
 Vi/Alternate Universe,Steb,1
 Vi/Alternate Universe,Swain,1
 Vi/Alternate Universe,Thieram,1
 Vi/Alternate Universe,Tobias Kiramman,1
 Vi/Alternate Universe,Torman Hoskel,1
-Vi/Alternate Universe,Vander,4
+Vi/Alternate Universe,Vander,5
 Vi/Alternate Universe,Vern,1
-Vi/Alternate Universe,Vi,5
+Vi/Alternate Universe,Vi,6
 Vi/Alternate Universe,Viktor,1
-Vi/Alternate Universe,Warwick,1
 Vi/Alternate Universe,Ximena Talis,1
 Viktor,Amara,1
-Viktor,Ambessa Medarda,1
+Viktor,Ambessa Medarda,2
 Viktor,Babette,1
 Viktor,Benzo,1
 Viktor,Caitlyn Kiramman,1
-Viktor,Captured Girl,1
 Viktor,Cassandra Kiramman,1
-Viktor,Cat,1
 Viktor,Cecil B. Heimerdinger,2
 Viktor,Chross,1
 Viktor,Claggor,1
 Viktor,Deckard,1
-Viktor,Ekko,1
+Viktor,Ekko,2
 Viktor,Elora,1
 Viktor,Eve,1
 Viktor,Finn,1
 Viktor,Gert,1
 Viktor,Grayson,1
 Viktor,Harold,1
-Viktor,Huck,1
+Viktor,Huck,3
 Viktor,Irius Bolbok,1
-Viktor,Isha,1
+Viktor,Isha,2
 Viktor,Janna,1
-Viktor,Jayce Talis,5
-Viktor,Jinx,3
+Viktor,Jayce Talis,6
+Viktor,Jinx,6
 Viktor,Jules,1
 Viktor,Kino Medarda,1
 Viktor,Lest,1
-Viktor,Lock,1
 Viktor,Loris,1
 Viktor,Madam Margot,1
 Viktor,Maddie Nolen,1
 Viktor,Marcus,1
 Viktor,Mel Medarda,3
 Viktor,Mylo,1
-Viktor,Mysterious Mage,1
 Viktor,Orianna Reveck,1
 Viktor,Ran,1
 Viktor,Ren,1
@@ -4303,95 +3943,91 @@ Viktor,Renni,2
 Viktor,Renni's Son,1
 Viktor,Rictus,1
 Viktor,Rio,4
-Viktor,Salo,1
+Viktor,Salo,3
 Viktor,Scar,1
 Viktor,Sevika,1
-Viktor,Shimmer,2
+Viktor,Shimmer,5
 Viktor,Shoola,1
-Viktor,Silco,1
-Viktor,Singed,5
-Viktor,Sky Young,3
+Viktor,Silco,2
+Viktor,Singed,9
+Viktor,Sky Young,1
 Viktor,Smeech,1
+Viktor,Species,1
 Viktor,Steb,1
 Viktor,Swain,1
-Viktor,The Hexcore,4
+Viktor,The Hexcore,8
 Viktor,Thieram,1
 Viktor,Tobias Kiramman,1
 Viktor,Torman Hoskel,1
-Viktor,Vander,1
+Viktor,Vander,5
 Viktor,Vern,1
-Viktor,Vi,1
-Viktor,Warwick,1
+Viktor,Vi,2
 Viktor,Ximena Talis,1
-Warwick,Amara,1
-Warwick,Ambessa Medarda,1
-Warwick,Babette,1
-Warwick,Benzo,1
-Warwick,Caitlyn Kiramman,1
-Warwick,Captured Girl,1
-Warwick,Cassandra Kiramman,1
-Warwick,Cat,1
-Warwick,Cecil B. Heimerdinger,1
-Warwick,Chross,1
-Warwick,Claggor,1
-Warwick,Deckard,1
-Warwick,Ekko,1
-Warwick,Elora,1
-Warwick,Eve,1
-Warwick,Finn,1
-Warwick,Gert,1
-Warwick,Grayson,1
-Warwick,Harold,1
-Warwick,Huck,1
-Warwick,Irius Bolbok,1
-Warwick,Isha,1
-Warwick,Janna,1
-Warwick,Jayce Talis,1
-Warwick,Jinx,2
-Warwick,Jules,1
-Warwick,Kino Medarda,1
-Warwick,Lest,1
-Warwick,Lock,1
-Warwick,Loris,1
-Warwick,Madam Margot,1
-Warwick,Maddie Nolen,1
-Warwick,Marcus,1
-Warwick,Mel Medarda,1
-Warwick,Mylo,1
-Warwick,Mysterious Mage,1
-Warwick,Orianna Reveck,1
-Warwick,Ran,1
-Warwick,Ren,1
-Warwick,Renni,2
-Warwick,Renni's Son,1
-Warwick,Rictus,2
-Warwick,Rio,1
-Warwick,Salo,1
-Warwick,Scar,1
-Warwick,Sevika,1
-Warwick,Shoola,1
-Warwick,Silco,1
-Warwick,Singed,4
-Warwick,Sky Young,1
-Warwick,Smeech,1
-Warwick,Steb,1
-Warwick,Swain,1
-Warwick,Thieram,1
-Warwick,Tobias Kiramman,1
-Warwick,Torman Hoskel,1
-Warwick,Vander,4
-Warwick,Vern,1
-Warwick,Vi,2
-Warwick,Viktor,1
-Warwick,Ximena Talis,1
+Viktor/Alternate Universe,Amara,1
+Viktor/Alternate Universe,Ambessa Medarda,1
+Viktor/Alternate Universe,Babette,1
+Viktor/Alternate Universe,Benzo,1
+Viktor/Alternate Universe,Caitlyn Kiramman,1
+Viktor/Alternate Universe,Cassandra Kiramman,1
+Viktor/Alternate Universe,Cecil B. Heimerdinger,1
+Viktor/Alternate Universe,Chross,1
+Viktor/Alternate Universe,Claggor,1
+Viktor/Alternate Universe,Deckard,1
+Viktor/Alternate Universe,Ekko,1
+Viktor/Alternate Universe,Elora,1
+Viktor/Alternate Universe,Eve,1
+Viktor/Alternate Universe,Finn,1
+Viktor/Alternate Universe,Gert,1
+Viktor/Alternate Universe,Grayson,1
+Viktor/Alternate Universe,Harold,1
+Viktor/Alternate Universe,Huck,1
+Viktor/Alternate Universe,Irius Bolbok,1
+Viktor/Alternate Universe,Isha,1
+Viktor/Alternate Universe,Janna,1
+Viktor/Alternate Universe,Jayce Talis,1
+Viktor/Alternate Universe,Jinx,1
+Viktor/Alternate Universe,Jules,1
+Viktor/Alternate Universe,Kino Medarda,1
+Viktor/Alternate Universe,Lest,1
+Viktor/Alternate Universe,Loris,1
+Viktor/Alternate Universe,Madam Margot,1
+Viktor/Alternate Universe,Maddie Nolen,1
+Viktor/Alternate Universe,Marcus,1
+Viktor/Alternate Universe,Mel Medarda,1
+Viktor/Alternate Universe,Mylo,1
+Viktor/Alternate Universe,Orianna Reveck,1
+Viktor/Alternate Universe,Ran,1
+Viktor/Alternate Universe,Ren,1
+Viktor/Alternate Universe,Renni,2
+Viktor/Alternate Universe,Renni's Son,1
+Viktor/Alternate Universe,Rictus,1
+Viktor/Alternate Universe,Rio,1
+Viktor/Alternate Universe,Salo,1
+Viktor/Alternate Universe,Scar,1
+Viktor/Alternate Universe,Sevika,1
+Viktor/Alternate Universe,Shoola,1
+Viktor/Alternate Universe,Silco,1
+Viktor/Alternate Universe,Singed,1
+Viktor/Alternate Universe,Sky Young,1
+Viktor/Alternate Universe,Smeech,1
+Viktor/Alternate Universe,Species,1
+Viktor/Alternate Universe,Steb,1
+Viktor/Alternate Universe,Swain,1
+Viktor/Alternate Universe,The Hexcore,1
+Viktor/Alternate Universe,Thieram,1
+Viktor/Alternate Universe,Tobias Kiramman,1
+Viktor/Alternate Universe,Torman Hoskel,1
+Viktor/Alternate Universe,Vander,1
+Viktor/Alternate Universe,Vern,1
+Viktor/Alternate Universe,Vi,1
+Viktor/Alternate Universe,Viktor,12
+Viktor/Alternate Universe,Ximena Talis,1
 Ximena Talis,Amara,1
 Ximena Talis,Ambessa Medarda,1
 Ximena Talis,Babette,1
 Ximena Talis,Benzo,1
 Ximena Talis,Caitlyn Kiramman,1
-Ximena Talis,Captured Girl,1
 Ximena Talis,Cassandra Kiramman,2
-Ximena Talis,Cat,1
 Ximena Talis,Cecil B. Heimerdinger,1
 Ximena Talis,Chross,1
 Ximena Talis,Claggor,1
@@ -4412,14 +4048,12 @@ Ximena Talis,Jinx,1
 Ximena Talis,Jules,1
 Ximena Talis,Kino Medarda,1
 Ximena Talis,Lest,1
-Ximena Talis,Lock,1
 Ximena Talis,Loris,1
 Ximena Talis,Madam Margot,1
 Ximena Talis,Maddie Nolen,1
 Ximena Talis,Marcus,1
 Ximena Talis,Mel Medarda,1
 Ximena Talis,Mylo,1
-Ximena Talis,Mysterious Mage,1
 Ximena Talis,Orianna Reveck,1
 Ximena Talis,Ran,1
 Ximena Talis,Ren,1
@@ -4435,6 +4069,7 @@ Ximena Talis,Silco,1
 Ximena Talis,Singed,1
 Ximena Talis,Sky Young,1
 Ximena Talis,Smeech,1
+Ximena Talis,Species,1
 Ximena Talis,Steb,1
 Ximena Talis,Swain,1
 Ximena Talis,Thieram,1
@@ -4444,4 +4079,3 @@ Ximena Talis,Vander,1
 Ximena Talis,Vern,1
 Ximena Talis,Vi,1
 Ximena Talis,Viktor,1
-Ximena Talis,Warwick,1
